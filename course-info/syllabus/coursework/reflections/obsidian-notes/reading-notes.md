@@ -1,0 +1,8 @@
+# Reading Notes\*
+
+This year we will practice reading academic works and creating effective and useful notes from them. Building up your own smart note system requires that students work up foundational building blocks (references to works read) and notes that build off of them (literature and permanent notes). For history, texts form the foundational building blocks of our ideas - reading written history and then recording our thoughts on evidence (no matter if evidence takes the form of texts, images, material culture etc.)
+
+### What is the point of writing up notes on your readings?
+
+* You make _reference notes_, because I want students to practice writing up a proper citation for works we are reading. Proper citation is in part about 1) showing you can follow scholarly norms, in part becuase 2) sloppy citations make you look unprofessional and 3) (most importantly!) future-you will thank past-you if properly done references are a click away and you can easily track down an origin to your ideas. &#x20;
+* You write _literature notes_ to show how you have thought about the reading. Literature-notes  (and importing thoughts from hypothes.is) allow you to have a record of passages you found most helpful/ interesting and record _why_ you thought so. This means that these passages (quotations w/annotations) are then available when you want to come back to that topic - in this class or in others (believe me, historians come back to ideas like, "What is history" over and over again...).
