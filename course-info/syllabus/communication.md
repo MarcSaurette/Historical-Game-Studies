@@ -17,7 +17,7 @@ Communicating with one another is the key to a successful class.&#x20;
 #### **Basic Course Information**&#x20;
 
 1. The static website here on [gitbook.com](https://marc-saurette.gitbook.io/gaming-the-middle-ages/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc.&#x20;
-2. Our "Historical Games Studies" group on  Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run (should they be needed). It will be a hub with links etc..  Note: you must be logged in to your Carleton cmail account to access [Teams](../digital-tools/teams.md).&#x20;
+2. Our "Historical Games Studies" group on  Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run (should they be needed). It will be a hub with links etc.. You can set up videoconferences with your peers there, as well.   Note: you must be logged in to your Carleton cmail account to access [Teams](../digital-tools/teams.md).&#x20;
 3. Our Brightspace coursepage will not be used at all. Avoid at all costs.&#x20;
 
 {% hint style="info" %}
@@ -41,15 +41,11 @@ In our experience, live discussions are by far the best and most efficient way t
 &#x20;Obviously there are exceptions to this rule – particularly in the case of extremely urgent logistical/emergency issues; such as, a situation where it is not feasible/desirable to talk live or sensitive issues you would like to communicate by writing rather than live.
 {% endhint %}
 
-#### **Contact with Peers**
-
-There will be a variety of official channels through which you can connect with fellow students, including, for example, using the Teams chat/ videoconference functions before and after class.
-
 #### **Live Contact with Professor**
 
 You will be able to connect with the professor  in and out of class. Outside of the normal give-and-take of class discussions, you can meet individually (in person or online via Teams) with the professor, either as on audio or videoconference via Teams. Live contact is the best way to address complex questions about an assignment you are working on, issues you are having with the course&#x20;
 
-* The professor will have office hours in person and through Teams.
+* The professor will have office hours in person before class and through Teams.
 * We will have class time each week where we will be able to engage in discussions and debates
 
 #### **Written Contact with Professor**

@@ -34,5 +34,5 @@ You do not need to have any experience with games or gaming culture. Arguably ga
 Courses involving games, games studies and game design tend to skew male. The Games industry certainly does and there is a history of sexism and discrimination behind it. This class is expressly intended crack open this world for anyone who is interested and to show that anyone can belong in this world – this is not a class only for the already initiated.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Fw0bzOBaAAI27zJ.png" alt=""><figcaption><p>As this chart suggest, society needs more gender diversity in the game community. </p></figcaption></figure>
+<figure><img src=".gitbook/assets/Fw0bzOBaAAI27zJ.png" alt=""><figcaption><p>As this chart suggest, society needs more gender diversity in the game design community. </p></figcaption></figure>
 

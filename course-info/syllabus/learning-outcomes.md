@@ -1,4 +1,4 @@
-# Learning Outcomes\*
+# Learning Outcomes
 
 ### What am I going to learn?
 
@@ -8,14 +8,13 @@ We want you to learn how to _read_, how to _write_, how to _interpret,_ how to _
 
 Generally...
 
-1. You will learn how to navigate Carleton university and its resources
-2. You will learn tools and techniques for making notes, organizing a long term research project and developing products of your learning
+1. You will learn tools and techniques for making notes, organizing a long term research project and developing products of your learning
 
 In terms of content, you will:
 
 1. play, think about and dissect games to see them as assemblages of texts, images, objects and mechanics&#x20;
 2. learn terminology, frameworks and analytical methodologies to allow you to approach games critically and as a historian through hands-on play, observation and analysis&#x20;
-3. learn a general history of games
+3. pickup a general history of games in the Western tradition
 4. have an opportunity to explore underlying concepts, technologies, and languages of contemporary games and gain an understanding of available game resources not only from the viewpoint of a game player but also from that of a game maker.
 
 In terms of skills:
@@ -30,7 +29,7 @@ In terms of skills:
 {% hint style="info" %}
 Learning outcomes are usually practical things, such as (imagine this said in a grumpy professor voice), "Learning enterprise tools allow you to succeed in the world after graduation". But one of the most important things to do in this class is to get to know your fellow students!&#x20;
 
-Your classmates are potential essay editors, project brainstormers, emotional supports and –dare I say– possible friends. Try to reach out and befriend at least one other of your classmates, because the odds are, the effort you put into it will be paid back. Even if we're stuck doing this all online, it'll be worth it.&#x20;
+Your peers are potential essay editors, project brainstormers, emotional supports and –dare I say– possible friends. Try to reach out and befriend at least one other of your classmates, because the odds are, the effort you put into it will be paid back. Even if we're stuck doing this all online, it'll be worth it.&#x20;
 {% endhint %}
 
 ### Why Study History?

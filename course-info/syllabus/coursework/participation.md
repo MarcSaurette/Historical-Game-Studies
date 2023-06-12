@@ -6,7 +6,7 @@ This course meets for one 3-hour block per week and will be run as a seminar, wi
 A good discussion includes a plurality of diverse, well-informed voices. To that end it is absolutely imperative that students come to class having read the readings thoroughly. Students should be prepared to be active members of class, contributing to discussion on a weekly basis.
 {% endhint %}
 
-It is also important to remember that participation takes many forms, from informed listening to open debate. It could be that the material might have a polarizing effect; in those cases it is doubly important to keep comments on the level of argument. Successful participation is not always _frequent_ participation. The aim is for a thoughtful exchange of ideas.
+It is also important to remember that participation takes many forms, from informed listening to open debate. Successful participation is not always _frequent_ participation. The aim is for a thoughtful exchange of ideas.
 
 Participation is very important for this class since one of its main learning objectives is to improve students’ ability to verbalize their thoughts and assessments, as well as logically discuss/ debate. Nothing can be evidence unless it is placed in a logical argument, and class is meant to let you practice this faculty.&#x20;
 
