@@ -1,16 +1,12 @@
 # Coursework
 
-In-person classes are based on the foundation of professors and students meeting in class for lectures and to discuss readings, debate etc. And while some learning happens together at the same time much learning happens on the student's own time (e.g. writing papers, doing readings etc.).&#x20;
-
-In the classroom, students will be expected at times to make spoken presentations and to participate in each class – i.e. being in class, asking questions, showing you've learned from doing the readings, etc (an abbreviation of _et cetera_, Latin for "and other things"). Usually the written work is designed to complement or to prepare for the work done in class.&#x20;
-
 All written work must be completed for a student to pass the course.&#x20;
 
 {% tabs %}
 {% tab title="Participation" %}
 So, let's get this out in the open. Participation is always difficult to assess. Even in face-to-face classes, I can measure what I see, but I don't know the work that has been done behind the scenes (especially if you are a quiet or shy student). So typically, I have had students assign themselves a mark for participation each class – based on a rubric assigning points for attendence and for degree of participation.&#x20;
 
-I will take attendence and at the end of each class, will request that you assign yourself a mark out of 5 for the quality of your participation. At the end of each term, you will write up a process letter explaining the quality of your participation, part of which will be to assess your contributions to class discussion.
+I will take attendance and at the end of each class, will request that you assign yourself a mark out of 5 for the quality of your participation. At the end of each term, you will write up a process letter explaining the quality of your participation, part of which will be to assess your contributions to class discussion.
 {% endtab %}
 
 {% tab title="Notes" %}
