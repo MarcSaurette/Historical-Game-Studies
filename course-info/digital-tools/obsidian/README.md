@@ -1,6 +1,6 @@
 # Obsidian
 
-[Obsidian](https://obsidian.md) is a powerful tool for taking notes and organizing knowledge. As they say:
+[Obsidian](https://obsidian.md) is a powerful tool for taking notes and organizing knowledge. As their promo materials describes:
 
 > _Everything is connected_
 >
@@ -14,7 +14,11 @@ They are happy to describe what it is and what it is good for. We agree: it's be
 
 To get a sense of what Obsidian does and how you can use it, take a look at their resources page: [https://www.obsidianroundup.org/resources/](https://www.obsidianroundup.org/resources/)
 
-At the end of the fall Term, students will be expected to submit their entire Obsidian vault to show how it was used throughout term (i.e. to show whether the student made use of the medium above expectation).&#x20;
+At the end of the term, students may wish to submit their entire Obsidian vault to show how it was used throughout term (i.e. to show whether the student made use of the medium above expectation) to bump up your participation mark.&#x20;
 
-* our goal, if everyone agrees, will also be to create a communal vault, linking people's work together and establishing a shareable repository of everyone's work in a new Obsidian vault.&#x20;
+* our goal will also be to create a communal vault, linking people's work together and establishing a shareable repository of everyone's work in a new Obsidian vault.
+* students will submit their annotated bibliography as part of an Obsidian vault, but the remaining assignments can be completed in other formats.
 
+{% hint style="info" %}
+We can share a common Obsidian vault on Teams (it can be synced via [OneDrive](https://cmailcarletonca.sharepoint.com/:f:/r/sites/HistoricalGamesStudies/Shared%20Documents/General/HGS%20-%202024%20-%20Shared%20Vault?csf=1\&web=1\&e=ryItyB) if that it is installed on your computer or through the Teams interface manually).&#x20;
+{% endhint %}

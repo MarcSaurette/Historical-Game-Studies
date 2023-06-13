@@ -1,6 +1,6 @@
 # Process Letters
 
-At the end of the first and second terms, students will be asked to write a critical self-evaluation (_critical_ in the sense of "using logic and evidence to argue"), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative (even work that you don't otherwise turn in).
+At the end of term, students will be asked to write a critical self-evaluation (_critical_ in the sense of "using logic and evidence to argue"), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative (even work that you don't otherwise turn in).
 
 I will post a form on Teams for students to submit, but you may submit a long form written answer (an argument rather than answers to specific questions) if you prefer. &#x20;
 
@@ -8,7 +8,7 @@ I will post a form on Teams for students to submit, but you may submit a long fo
 
 The goal of the Process Letter is for you to make an argument for the overall grade you will propose for yourself. I provide here some of the guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. The form posted on Teams will ask you similar but not identical questions to those below. I will ask something like:
 
-> Based on your work this semester, and taking into consideration the context of Fall 2022, select a letter grade for your work and your learning in this course. Write a narrative that addresses the following major prompts:&#x20;
+> Based on your work this semester, identify a letter grade for your work and your learning in this course. Write a narrative that addresses the following major prompts:&#x20;
 
 * Discuss your process as a learner: evaluate your engagement with course content by reflecting on how you handled all aspects of this course. What specific parts of your process worked and what parts would benefit from some adjustments? Why? &#x20;
 * Discuss the products you generated as demonstrations of your learning: evaluate how your work has changed across the semester. Did certain elements improve more than others? Did certain elements become easier or more challenging? Describe.&#x20;

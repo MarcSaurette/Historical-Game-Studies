@@ -11,6 +11,6 @@ If you want to know more about the how to take smart notes, I recommend you take
 Ahrens' method is not medium dependent - you can do it using paper cards or many different kinds of software, but we (and now Ahrens himself) think Obsidian is the best tool to use. We are making notes using Obsidian because it has the potential to be future-proof for longevity, it allows a considerable improvement over the paper version of note-taking (e.g. its ability to easily link to other notes and incorporate digital media seamlessly), it is free and it has the potential to assist your learning for the entirety of your degree (e.g. its functionality expands as your expertise develops).&#x20;
 
 {% hint style="info" %}
-At the end of term, students will submit their entire Obsidian vault (i.e. folder of work) as part of their end-of-term submission.&#x20;
+At the end of term, students may wish to submit their entire Obsidian vault (i.e. folder of work) as part of their end-of-term submission.&#x20;
 {% endhint %}
 
