@@ -9,10 +9,14 @@ All written work must be completed for a student to pass the course.&#x20;
 So, let's get this out in the open. [Participation](./#participation) is always difficult to assess. Even in face-to-face classes, I can measure what I see, but I don't know the work that has been done behind the scenes (especially if you are a quiet or shy student). So typically, I have had students assign themselves a mark for participation each class – based on a rubric assigning points for attendence and for degree of participation.&#x20;
 
 Your participation mark will be determined by your attendance and the quality of your contribution to class discussion. At the end of each class you attend (5pts), I will request that you also assign yourself a mark out of 5pts for the quality of your participation. At the end of each term, you will write up a process letter explaining the quality of your participation.
+
+Part of effective participation is learning to lead discussions. Each student will be in charge of [facilitating the seminar](seminar-faciliation.md) each week.&#x20;
 {% endtab %}
 
 {% tab title="Notes" %}
 We are using [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - using the reading to build a library of notes useful for your future work in historical games studies. We will practice citing works properly, turning the texts of experts into your own words, and then processing these ideas. At the end of term, you may wish to submit your Obsidian library to showcase your work over the course of the term.&#x20;
+
+In the first few weeks, you will be asked to produce notes which will prepare you for completing the [annotated bibliography](reflections/1.-annotated-bibliography.md), which will need to be submitted as Obsidian notes.&#x20;
 {% endtab %}
 
 {% tab title="Exercises" %}
