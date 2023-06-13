@@ -6,7 +6,7 @@ I want students to have the freedom to pursue work which best suits their academ
 
 All students will complete the first assignment –an annotated bibliography– which will orient you towards your future projects. After completing your annotated bibliography, you will choose which project pathway you wish to take:
 
-* game research
+* game analysis
 * game design
 * game pedagogy
 
