@@ -1,18 +1,18 @@
 # Coursework
 
+The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar. Above all I just want you to get used to writing without worrying too much about being perfect at it.&#x20;
+
 All written work must be completed for a student to pass the course.&#x20;
 
 {% tabs %}
 {% tab title="Participation" %}
 So, let's get this out in the open. [Participation](./#participation) is always difficult to assess. Even in face-to-face classes, I can measure what I see, but I don't know the work that has been done behind the scenes (especially if you are a quiet or shy student). So typically, I have had students assign themselves a mark for participation each class – based on a rubric assigning points for attendence and for degree of participation.&#x20;
 
-I will take attendance and at the end of each class, will request that you assign yourself a mark out of 5 for the quality of your participation. At the end of each term, you will write up a process letter explaining the quality of your participation, part of which will be to assess your contributions to class discussion.
+Your participation mark will be determined by your attendance and the quality of your contribution to class discussion. At the end of each class you attend (5pts), I will request that you also assign yourself a mark out of 5pts for the quality of your participation. At the end of each term, you will write up a process letter explaining the quality of your participation.
 {% endtab %}
 
 {% tab title="Notes" %}
-The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying too much about being perfect at it.&#x20;
-
-We are using [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - citing works properly, turning the texts of experts into your own words, and then processing these ideas. At the end of term, you may wish to submit your Obsidian library to showcase your work over the course of the term.&#x20;
+We are using [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - using the reading to build a library of notes useful for your future work in historical games studies. We will practice citing works properly, turning the texts of experts into your own words, and then processing these ideas. At the end of term, you may wish to submit your Obsidian library to showcase your work over the course of the term.&#x20;
 {% endtab %}
 
 {% tab title="Exercises" %}
@@ -26,7 +26,7 @@ All students will complete the first assignment, the annotated bibliography. Aft
 {% endtab %}
 
 {% tab title="Feedback" %}
-&#x20;You will be asked to provide comments and constructive criticism to written work completed by your peers ([expectations set out here](peer-feedback.md)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is.md) or in-built commenting functions if they are shared as word processors files (Google Docs/ Word).&#x20;
+&#x20;You may be asked to provide comments and constructive criticism on written work completed by your peers ([expectations set out here](peer-feedback.md)). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is.md) or in-built commenting functions if they are shared as word processors files (Google Docs/ Word).&#x20;
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -38,4 +38,4 @@ A "[process letter](process-letters.md)" is a term we use to describe an end-of-
 
 * prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites)
 * attend seminars, where students will discuss preassigned questions suggested by the weekly(student) seminar leader
-* play games and think about them and then [write about them](reflections/game-journal.md).
+* play games and think about them and then write about them.
