@@ -22,7 +22,7 @@
       * [History Game Pedagogy\*](course-info/syllabus/coursework/reflections/history-game-pedagogy.md)
       * [Obsidian Notes](course-info/syllabus/coursework/reflections/obsidian-notes.md)
       * [1. Annotated Bibliography](course-info/syllabus/coursework/reflections/1.-annotated-bibliography.md)
-      * [2A. Project Proposal\*](course-info/syllabus/coursework/reflections/2a.-project-proposal.md)
+      * [2A. Project Proposal](course-info/syllabus/coursework/reflections/2a.-project-proposal.md)
       * [2B. Game Pitch](course-info/syllabus/coursework/reflections/2b.-game-pitch.md)
       * [2C. New Course Proposal](course-info/syllabus/coursework/reflections/2c.-new-course-proposal.md)
       * [3A. Game Research Paper](course-info/syllabus/coursework/reflections/3a.-game-research-paper.md)
