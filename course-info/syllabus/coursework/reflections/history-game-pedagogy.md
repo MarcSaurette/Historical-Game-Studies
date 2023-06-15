@@ -1,2 +1,2 @@
-# History Game Pedagogy
+# History Game Pedagogy\*
 
