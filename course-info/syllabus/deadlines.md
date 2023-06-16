@@ -9,8 +9,8 @@ Please let me know (in advance) if there are good reasons for why you can't get 
 | **Assignment**                                  | **Date due**                         |
 | ----------------------------------------------- | ------------------------------------ |
 | Annotated Bibliography                          | February 1, 2024 (by start of class) |
-| Second Assignment (varied)                      | March 7th, 2024 (by start of class)  |
-| Third Assignment (varied)                       | April 10th, 2024 (by 5pm)            |
+| Second Assignment                               | March 7th, 2024 (by start of class)  |
+| Third Assignment                                | April 10th, 2024 (by 5pm)            |
 | [Process Letter](coursework/process-letters.md) | April 10th, 2024 (by 5pm)            |
 
 ### Extensions and Accommodations
