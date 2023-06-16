@@ -4,7 +4,7 @@
 I'll post an overview schedule for the course here. Obviously, this is still in progress.&#x20;
 {% endhint %}
 
-### Fall Term - Key Dates
+### Winter Term - Key Dates
 
 <table><thead><tr><th width="221">Date</th><th>Activity</th></tr></thead><tbody><tr><td>January 8, 2024</td><td>Winter term begins</td></tr><tr><td>January 19, 2024 </td><td>Last day for registration and course changes (including auditing) in full winter and late winter courses.</td></tr><tr><td>February 19-23, 2024 </td><td>Winter break, no classes.</td></tr><tr><td>March 1, 2024 </td><td>Last day for graduate students to submit their supervisor-approved thesis, in examinable form to the department</td></tr><tr><td>March 8, 2024 </td><td>Last day to withdraw from late winter term courses with a full fee adjustment.</td></tr><tr><td>March 15, 2024 </td><td>Last day for academic withdrawal from full winter and fall/winter courses</td></tr><tr><td>March 29, 2024 </td><td>Statutory holiday. University closed.</td></tr><tr><td>April 10, 2024 </td><td>Winter term ends (classes follow Friday schedule).</td></tr><tr><td>May 10, 2024 </td><td>Graduate students who have not electronically submitted their final thesis copy to the Faculty of Graduate and Postdoctoral Affairs will not be eligible to graduate in spring 2024 and must register for the summer 2024 term.</td></tr></tbody></table>
 
