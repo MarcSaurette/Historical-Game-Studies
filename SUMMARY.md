@@ -30,6 +30,7 @@
   * [Assessment](course-info/syllabus/assessment-1.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
 * [Schedule\*](course-info/schedule.md)
+* [Readings](course-info/readings.md)
 * [Exercises\*](course-info/assignments/README.md)
   * [1. Introduction to Hypothes.is](course-info/assignments/1.-introduction-to-hypothes.is.md)
   * [2. Writing up permanent notes](course-info/assignments/2.-writing-up-permanent-notes.md)
