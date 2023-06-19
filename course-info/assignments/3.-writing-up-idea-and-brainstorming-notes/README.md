@@ -1,9 +1,5 @@
 # 3. Writing up idea and brainstorming notes
 
-{% hint style="info" %}
-These notes should be posted by 10am, October 3.&#x20;
-{% endhint %}
-
 This week, I want students to complete two notes:&#x20;
 
 1. An idea or concept note answering the question, "What is a game?" based on the two assigned Nguyen readings and perhaps some additional research.
