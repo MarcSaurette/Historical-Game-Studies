@@ -26,7 +26,7 @@ The smart notes process asks people to get things into a note when you have a go
 {% endtab %}
 
 {% tab title="Reference Notes" %}
-You make _reference notes_, because I want students to practice writing up a proper citation for works we are reading. Proper citation is in part about 1) showing you can follow scholarly norms, in part because 2) sloppy citations make you look unprofessional and 3) (most importantly!) future-you will thank past-you if properly done references are a click away and you can easily track down an origin to your ideas. &#x20;
+You make _reference notes_, because I want students to practice writing up a proper citation for works we are reading. Proper citation is in part about 1) showing you can follow scholarly norms, in part because 2) sloppy citations make you look unprofessional and 3) (most importantly!) future-you will thank past-you if properly done references are a click ~~away~~ and you can easily track down an origin to your ideas. &#x20;
 {% endtab %}
 
 {% tab title="Literature Notes" %}
