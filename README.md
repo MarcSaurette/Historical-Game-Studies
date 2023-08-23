@@ -1,6 +1,6 @@
-# Historical Games Studies - 2024\*
+# Historical Game Studies - 2024\*
 
-## HIST 5906 - Historical Games Studies
+## HIST 5906 - Historical Game Studies
 
 ### Overview
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Historical Games Studies - 2024\*](README.md)
+* [Historical Game Studies - 2024\*](README.md)
 * [How to join class\*](how-to-join-the-online-class.md)
 
 ## Course Information <a href="#course-info" id="course-info"></a>
