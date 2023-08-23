@@ -2,7 +2,7 @@
 
 ### Goals for this week (Date)
 
-By the end of the first week (by Sunday, September 11th), what should you **know**, be able to **do** and **understand**?
+By the end of the first week (by Sunday, September YYYth), what should you **know**, be able to **do** and **understand**?
 
 1. Get to know a bit about your professor and your fellow classmates
 2. Learn what the course is all about and how we're going to run it

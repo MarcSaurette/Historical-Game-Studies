@@ -17,7 +17,7 @@ The week introduces you to the field of Games Studies. The professor will lead a
 
 ### Read/Watch/Listen
 
-There are two readings to annotate this week:
+Here are the readings to annotate this week:
 
 Nguyen, C. Thi. “Philosophy of Games.” Philosophy compass 12, no. 8 (2017)
 
@@ -27,10 +27,16 @@ And also  C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford Univer
 
 * [https://academic.oup.com/book/32137/chapter/268094682](https://academic.oup.com/book/32137/chapter/268094682)
 
+And in addition, please listen and take notes from a recent podcast hosted [media scholar Cameron](https://twitter.com/ckunzelman) Kunzelman and [literature scholar Michael](https://twitter.com/WarrenIsDead) Lutz, called Game Studies Study Buddies.&#x20;
+
 {% hint style="info" %}
-C.T. Nguyen also was interviewed on the Ezra Klein show **in February 2022,** where he states in a slightly different (and more approachable) way what is in his book**.** A link to the podcast and a transcript can be found here: [https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html](https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html)
+Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Game Studies Study Buddies._ If you are in working in the field of Games Studies, this podcast is designed for you!
+
+[http://rangedtouch.com/2023/07/31/60-nguyen-games-agency-as-art/](http://rangedtouch.com/2023/07/31/60-nguyen-games-agency-as-art/) (you can also listen to the podcast on most other podcasting apps).&#x20;
 
 
+
+\[**Optional**] C.T. Nguyen also was interviewed on the Ezra Klein show **in February 2022,** where he states in a slightly different (and more approachable) way what is in his book**.** A link to the podcast and a transcript can be found here: [https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html](https://www.nytimes.com/2022/02/25/podcasts/transcript-ezra-klein-interviews-c-thi-nguyen.html)
 
 **Listen to “The Ezra Klein Show”**: [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447), [Spotify](https://open.spotify.com/show/3oB5noYIwEB2dMAREj2F7S), [Pocket Casts](https://pca.st/ey7cqeik), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84MkZJMzVQeA), [Stitcher](https://www.stitcher.com/show/the-ezra-klein-show-2), [How to Listen](https://www.nytimes.com/2021/01/19/opinion/how-to-listen-ezra-klein-show-nyt.html?action=click\&module=RelatedLinks\&pgtype=Article)
 {% endhint %}
