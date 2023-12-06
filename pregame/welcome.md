@@ -14,7 +14,7 @@ By the end of the first week (by Sunday, September YYYth), what should you **kno
 
 The class provides a transition back to school after Winter break. We'll discuss the syllabus and getting to know one another. This week I want you to:&#x20;
 
-1. Before class, read the syllabus and [schedule](../course-info/schedule.md) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
+1. Before class, read the syllabus and [schedule](../schedule.md) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
 2. Before class, start to use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
 3. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
 

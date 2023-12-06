@@ -28,14 +28,14 @@ You will self-assess your participation mark for each class, but your participat
 
 The weekly student evaluation will be filled out by individual students on paper – handed out at the beginning of each class and returned at the end of the class to the professor. If you do not attend class you will receive 0/15 for that class. Students receive 5/15 points for each class simply by showing up. If students have completed the weekly exercise they receive 10/15. Then, the quality of their participation is added, according to the following table:&#x20;
 
-| Points                | Nature of Participation                                                                                                                                                 |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0                     | Student does not engage in participation (i.e. ask questions in class/ on Teams, respond during the in-person portion of class, and has not done the readings.          |
-| 1                     | Student participates but has not read the readings. OR the student does not participate but has read the readings (but not annotated them).                             |
-| 2 (needs improvement) | Student does not participate, but has read and annotated the readings.                                                                                                  |
-| 3 (satisfactory)      | Student participates minimally and has done the readings with minimum number of annotations on hypothesis.                                                              |
-| 4 (above average)     | Student participates more than typical and shows considerable engagement with the readings on hypothesis.                                                               |
-| 5    (rare)           | Student participates exceptionally (asks questions and gives answers during class, posts on Teams and helps peers, and shows exceptional engagement with the readings.  |
+| Points                       | Nature of Participation                                                                                                                                                 |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 (Unsatisfactory)           | Student does not engage in participation (i.e. ask questions in class/ on Teams, respond during the in-person portion of class, and has not done the readings.          |
+| 1 (really needs improvement) | Student participates but has not read the readings. OR the student does not participate but has read the readings (but not annotated them).                             |
+| 2 (needs improvement)        | Student does not participate, but has read and annotated the readings.                                                                                                  |
+| 3 (satisfactory)             | Student participates minimally and has done the readings with minimum number of annotations on hypothesis.                                                              |
+| 4 (above average)            | Student participates more than typical and shows considerable engagement with the readings on hypothesis.                                                               |
+| 5    (exceptional)           | Student participates exceptionally (asks questions and gives answers during class, posts on Teams and helps peers, and shows exceptional engagement with the readings.  |
 
 In general, here are some examples of the type of questions students will be asked to think about in evaluating their participation:
 

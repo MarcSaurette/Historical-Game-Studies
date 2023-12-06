@@ -20,11 +20,10 @@ In terms of content, you will:
 In terms of skills:
 
 1. You will learn how to closely read and analyze sources with different historical methodologies.
-2. You will learn how to take notes (class notes and research notes), synthesize them and use them to develop conclusions.
-3. You will learn study skills and habits to help you achieve academic succes in this class and others.
-4. You will learn digital tools for working on projects and collaborating with others
-5. You will learn the basics of game design
-6. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow.
+2. You will learn how to take digital notes (class notes and research notes), synthesize them, and use them to develop research work.&#x20;
+3. You will learn digital tools for working on projects and collaborating with others
+4. You will learn the basics of game design
+5. You will learn how to work independently and as a group, using digital "enterprise" tools to plan and execute written assignments. You will learn ways to manage your time and your work flow.
 
 {% hint style="info" %}
 Learning outcomes are usually practical things, such as (imagine this said in a grumpy professor voice), "Learning enterprise tools allow you to succeed in the world after graduation". But one of the most important things to do in this class is to get to know your fellow students!&#x20;
