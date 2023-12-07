@@ -5,14 +5,16 @@
 _**Teams**_ is one of the many "enterprise tools"  you will be using (i.e. digital tools/ apps that businesses use to manage projects and keep in communication). We're adapting it to the educational environment to take advantage the relative ease of communication that it provides. Ideally, it will be a digital hub connecting different parts of the course. I hope that Teams makes it easy for you to get in contact with the professors, teaching assistant(s) and your fellow students. It also works on computers, mobile devices and most browsers so you can keep in contact with the class through the form of connection you want (mobile app, desktop software, email, texts...).&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">Our</mark> [<mark style="color:red;">team</mark>](https://teams.microsoft.com/l/team/19%3aNNNpE7JePEjNyqxeXhNKWT\_XtEwA1EOei1z6Xj4ECoQ1%40thread.tacv2/conversations?groupId=6e3e34d5-9bd9-4989-8fa8-6347146e4eb8\&tenantId=6ad91895-de06-485e-bc51-fce126cc8530) <mark style="color:red;">can be joined via the app with the code</mark> <mark style="color:red;"></mark><mark style="color:red;">**XXXX**</mark> <mark style="color:red;"></mark><mark style="color:red;">(but this only works if you are correctly signed into teams with your correct Carleton ID).</mark>&#x20;
+<mark style="color:red;">Our</mark> [<mark style="color:red;">team</mark>](https://teams.microsoft.com/l/team/19%3aNNNpE7JePEjNyqxeXhNKWT\_XtEwA1EOei1z6Xj4ECoQ1%40thread.tacv2/conversations?groupId=6e3e34d5-9bd9-4989-8fa8-6347146e4eb8\&tenantId=6ad91895-de06-485e-bc51-fce126cc8530) <mark style="color:red;">can be joined via the app with the code</mark> **p4qvoyj** <mark style="color:red;">(but this only works if you are correctly signed into teams with your correct Carleton ID).</mark>&#x20;
 {% endhint %}
 
 ### Installing Microsoft Teams on a Desktop
 
-{% hint style="danger" %}
-You can also install no software at all and just use Teams through a browser – I really don't recommend this. It is not a great option since you have to sign in again and again and again forever. Generally the platform via browsers allows you you do less with more hassle. Also, if you are a Mac/ iPhone user, Teams does not work with Safari (e.g. at all, just blocks it...).&#x20;
+{% hint style="info" %}
+You can also install no software at all and just use Teams through a browser – I really don't recommend this, but it is open to you.&#x20;
 {% endhint %}
+
+
 
 1. So, you've likely already installed [MS Office 365](office.md). You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, microsoft.&#x20;
 2. Now, Carleton ITS has instructions on how to install Teams. You can see if you can follow along with their instructions, [here](https://carleton.ca/its/teams/download-app/). You fall into the category of "unmanaged PC" or Mac.&#x20;

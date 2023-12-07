@@ -18,7 +18,7 @@ Hypothes.is works best when integrated with Obsidian. Obsidian plugins will only
 
 ### Quick start:
 
-Click[ this link](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages) to join the class hypothes.is group and register for an account.&#x20;
+Click[ this link](https://hypothes.is/groups/1PgDxDb1/historical-games-studies) to join the class hypothes.is group and register for an account.&#x20;
 
 ### Installing Hypothes.is
 

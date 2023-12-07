@@ -1,8 +1,8 @@
 # Prelude\*
 
-### Goals for this week (Date)
+### Goals for this week (January 11th, 2024)
 
-By the end of the first week (by Sunday, September YYYth), what should you **know**, be able to **do** and **understand**?
+By the end of the first week, what should you **know**, be able to **do** and **understand**?
 
 1. Get to know a bit about your professor and your fellow classmates
 2. Learn what the course is all about and how we're going to run it
@@ -12,7 +12,7 @@ By the end of the first week (by Sunday, September YYYth), what should you **kno
 
 ### Overview:
 
-The class provides a transition back to school after Winter break. We'll discuss the syllabus and getting to know one another. This week I want you to:&#x20;
+The class provides a transition back to school after Winter break. We'll discuss the syllabus and get to know one another. This week I want you to:&#x20;
 
 1. Before class, read the syllabus and [schedule](../schedule.md) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
 2. Before class, start to use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
@@ -24,7 +24,7 @@ Read the syllabus section of this course guide and also the sections on Digital 
 
 ### Practice
 
-This week, you are asked to complete download, install, set up or sign up for the following:&#x20;
+This week, you are asked to download, install, set up or sign up for the following:&#x20;
 
 {% content-ref url="../course-info/digital-tools/teams.md" %}
 [teams.md](../course-info/digital-tools/teams.md)
@@ -36,4 +36,8 @@ This week, you are asked to complete download, install, set up or sign up for th
 
 {% content-ref url="../course-info/digital-tools/hypothes.is.md" %}
 [hypothes.is.md](../course-info/digital-tools/hypothes.is.md)
+{% endcontent-ref %}
+
+{% content-ref url="../course-info/digital-tools/zotero/" %}
+[zotero](../course-info/digital-tools/zotero/)
 {% endcontent-ref %}

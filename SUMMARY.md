@@ -50,9 +50,9 @@
   * [Obsidian](course-info/digital-tools/obsidian/README.md)
     * [Installing Obsidian](course-info/digital-tools/obsidian/installing-obsidian.md)
   * [Hypothes.is](course-info/digital-tools/hypothes.is.md)
-  * [Brightspace](course-info/digital-tools/brightspace.md)
   * [Zotero](course-info/digital-tools/zotero/README.md)
     * [Using Zotero with Obsidian\*](course-info/digital-tools/zotero/using-zotero-with-obsidian.md)
+  * [Brightspace](course-info/digital-tools/brightspace.md)
 
 ## Pregame
 
