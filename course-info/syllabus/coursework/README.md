@@ -16,17 +16,17 @@ Part of effective participation is learning to lead discussions. Each student wi
 {% tab title="Notes" %}
 We are using [Obsidian](../../digital-tools/obsidian/) to help you practice different kinds of writing - using the reading to build a library of notes useful for your future work in historical games studies. We will practice citing works properly, turning the texts of experts into your own words, and then processing these ideas. At the end of term, you may wish to submit your Obsidian library to showcase your work over the course of the term.&#x20;
 
-In the first few weeks, you will be asked to produce notes which will prepare you for completing the [annotated bibliography](reflections/1.-annotated-bibliography.md), which will need to be submitted as Obsidian notes.&#x20;
+You will be asked to produce notes which will prepare you for completing the [annotated bibliography](reflections/1.-annotated-bibliography.md), which will need to be submitted as Obsidian notes.&#x20;
 {% endtab %}
 
 {% tab title="Exercises" %}
-Some weeks we will complete exercises to introduce you to different tools in the Historical Games Studies toolkit. These are meant to get you practicing the tools and techniques we will be learning in class, but will not used for the purposes of assessment.&#x20;
+Some weeks we will complete exercises to introduce you to different tools in the Historical Game Studies toolkit. These are meant to get you practicing the tools and techniques we will be learning in class, but will not used for the purposes of assessment.&#x20;
 {% endtab %}
 
 {% tab title="Project" %}
 You will use your own interests to structure your assignments, and you will choose a path to complete the three major assignments that aligns with your scholarly and professional goals.
 
-All students will complete the first assignment, the annotated bibliography. After completing your annotated bibliography, you will pick one of the following paths, Game Pedagogy, Game Design or Game Research, which will determine your other two assignments for the course. You should build on the research you have already completed in your annotated bibliography to complete the other two assignments.
+All students will complete the first assignment, the annotated bibliography. After completing your [annotated bibliography](reflections/1.-annotated-bibliography.md), you will pick one of the following paths, Game Pedagogy, Game Design or Game Research, which will determine your other two assignments for the course. You should build on the research you have already completed in your annotated bibliography to complete the other two assignments.
 {% endtab %}
 
 {% tab title="Feedback" %}
@@ -41,5 +41,5 @@ A "[process letter](process-letters.md)" is a term we use to describe an end-of-
 ### **Each week you will:**&#x20;
 
 * prepare for class by completing the assigned readings and making annotations on the texts (primary sources, secondary sources, images, websites)
-* attend seminars, where students will discuss preassigned questions suggested by the weekly(student) seminar leader
+* attend seminars, where students will discuss preassigned questions suggested by the weekly (student) seminar leader
 * play games and think about them and then write about them.

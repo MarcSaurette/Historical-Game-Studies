@@ -6,6 +6,7 @@
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies
 3. To consider key terminology about games and how to decribe and categorize them.
 4. Complete exercise 1 by the beginning of class.&#x20;
+5. Discuss if annotation process worked.&#x20;
 
 ### Overview:
 

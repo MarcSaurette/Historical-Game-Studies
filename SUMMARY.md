@@ -23,7 +23,7 @@
       * [2A. Project Proposal](course-info/syllabus/coursework/reflections/2a.-project-proposal.md)
       * [2B. Game Pitch](course-info/syllabus/coursework/reflections/2b.-game-pitch.md)
       * [2C. New Course Proposal](course-info/syllabus/coursework/reflections/2c.-new-course-proposal.md)
-      * [3A. Game Research Paper](course-info/syllabus/coursework/reflections/3a.-game-research-paper.md)
+      * [3A. Game Research Paper\*](course-info/syllabus/coursework/reflections/3a.-game-research-paper.md)
       * [3B. Game Design Document](course-info/syllabus/coursework/reflections/3b.-game-design-document.md)
       * [3C. Teaching Aid](course-info/syllabus/coursework/reflections/3c.-teaching-aid.md)
     * [Peer Feedback](course-info/syllabus/coursework/peer-feedback.md)
