@@ -1,5 +1,9 @@
 # Coursework
 
+{% hint style="info" %}
+I am hoping that all coursework completed by students can be presented publicly - i.e. that they will be posted so that other students can read them and potentially give feedback.&#x20;
+{% endhint %}
+
 The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar. Above all I just want you to get used to writing without worrying too much about being perfect at it.&#x20;
 
 All written work must be completed for a student to pass the course.&#x20;
