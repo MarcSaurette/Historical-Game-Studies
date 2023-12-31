@@ -12,6 +12,7 @@ Your presentation should include:
 
 * a clear statement of what you accomplished in the second assignment&#x20;
 * a clear statement of what you hope to accomplish in the third assignment
-* be able to think about some problems you have encountered so far in your work (and you might need help with in accomplishing for your future work).&#x20;
+* be able to express some problems you have encountered so far in your work (and which you might need help with in accomplishing your future work)
+* actively solicit suggestions and feedback from your fellow students
 
-Students who are not presenting, are responsible for reading the other projects and being prepared to make concrete suggestions to help the presented advance their work (e.g. additional books to read, unmentioned pathways to pursue).
+Students who are not presenting (even if they also present the same day) are responsible for reading the other projects and being prepared to make concrete suggestions to help the presenter advance their work (e.g. additional books to read, unmentioned pathways to pursue).
