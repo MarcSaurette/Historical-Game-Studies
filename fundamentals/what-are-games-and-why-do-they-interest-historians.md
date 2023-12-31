@@ -1,4 +1,10 @@
-# What are Games?\*
+# What are Games and why do they interest historians?\*
+
+### Key Ideas
+
+* major definitions of "game"
+* trends in game studies scholarship
+* historical approaches to games
 
 ### Goals for this week (September XXXXX th)
 

@@ -10,5 +10,5 @@ All students will complete the first assignment –an annotated bibliography– 
 * **game design**: this pathway asks you to [pitch](2b.-game-pitch.md) and [design](3b.-game-design-document.md) a history game
 * **game pedagogy**: this pathway asks you to think about how to educate with games in the classroom or in the public history world. Students will design a new class [syllabus](2c.-new-course-proposal.md) and then a [teaching aid](3c.-teaching-aid.md) - either recording a sample lecture or writing up a formal justification of game based learning.&#x20;
 
-By going down one of these three pathways, you will be able to explore one of the key pillars of the discipline of historical games studies.&#x20;
+By going down one of these three pathways, you will be able to explore one of the key pillars of the discipline of historical games studies. The assignments are intended to be cumulative - building on top of one another towards the end goal.&#x20;
 

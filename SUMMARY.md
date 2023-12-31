@@ -3,6 +3,7 @@
 * [Historical Game Studies - 2024\*](README.md)
 * [How to join class\*](how-to-join-the-online-class.md)
 * [Schedule\*](schedule.md)
+* [Readings](readings.md)
 
 ## Course Information <a href="#course-info" id="course-info"></a>
 
@@ -19,6 +20,7 @@
     * [Seminar Faciliation](course-info/syllabus/coursework/seminar-faciliation.md)
     * [Writing](course-info/syllabus/coursework/reflections/README.md)
       * [Obsidian Notes](course-info/syllabus/coursework/reflections/obsidian-notes.md)
+      * [Presentation](course-info/syllabus/coursework/reflections/presentation.md)
       * [1. Annotated Bibliography](course-info/syllabus/coursework/reflections/1.-annotated-bibliography.md)
       * [2A. Project Proposal](course-info/syllabus/coursework/reflections/2a.-project-proposal.md)
       * [2B. Game Pitch](course-info/syllabus/coursework/reflections/2b.-game-pitch.md)
@@ -57,10 +59,9 @@
 ## Pregame
 
 * [Prelude\*](pregame/welcome.md)
-* [Tutorial Level\*](pregame/tutorial-level.md)
 
 ## Fundamentals
 
-* [What are Games?\*](fundamentals/what-are-games.md)
+* [What are Games and why do they interest historians?\*](fundamentals/what-are-games-and-why-do-they-interest-historians.md)
 * [History Games and Gaming History\*](fundamentals/history-games-and-gaming-history.md)
 * [Games Collections and Archives](fundamentals/games-collections-and-archives.md)
