@@ -63,5 +63,13 @@
 ## Fundamentals
 
 * [What are Games and why do they interest historians?\*](fundamentals/what-are-games-and-why-do-they-interest-historians.md)
-* [History Games and Gaming History\*](fundamentals/history-games-and-gaming-history.md)
-* [Games Collections and Archives](fundamentals/games-collections-and-archives.md)
+* [How to analyze History games](fundamentals/how-to-analyze-history-games.md)
+* [What do Games teach?](fundamentals/what-do-games-teach.md)
+* [Where are the Game Archives?](fundamentals/where-are-the-game-archives.md)
+
+## Ludic Experiments
+
+* [Do we take shelter - Playtest](ludic-experiments/do-we-take-shelter-playtest.md)
+* [Do we take shelter? Discussion with the game designer](ludic-experiments/do-we-take-shelter-discussion-with-the-game-designer.md)
+* [Student Presentations](ludic-experiments/student-presentations.md)
+* [Free Topics I & II](ludic-experiments/free-topics-i-and-ii.md)
