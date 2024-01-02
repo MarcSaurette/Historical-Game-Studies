@@ -6,6 +6,9 @@ These two weeks are intended to have readings and discussions that help move for
 
 Possible topics could include:
 
+* gender and history games/ game design
+* historical accuracy vs authenticity
+* nostalgia
 * the materiality of games
 * an overview of a time period or theme in modern games
 * focus on a particular historian/ theorist (e.g. Jeremiah McCall, Adam Chapman).&#x20;
