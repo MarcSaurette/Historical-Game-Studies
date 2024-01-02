@@ -24,6 +24,10 @@ Read the syllabus section of this course guide and also the sections on Digital 
 
 ### Practice
 
+As a way to get to know one another and test your game design skills, in small groups we will work to develop a quick historical roll & race game.
+
+### Prepare
+
 This week, you are asked to download, install, set up or sign up for the following:&#x20;
 
 {% content-ref url="../course-info/digital-tools/teams.md" %}

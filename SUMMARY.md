@@ -2,8 +2,8 @@
 
 * [Historical Game Studies - 2024\*](README.md)
 * [How to join class\*](how-to-join-the-online-class.md)
-* [Schedule\*](schedule.md)
-* [Readings](readings.md)
+* [Schedule](schedule.md)
+* [Readings\*](readings.md)
 
 ## Course Information <a href="#course-info" id="course-info"></a>
 
@@ -33,6 +33,7 @@
   * [Assessment](course-info/syllabus/assessment-1.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
 * [Exercises\*](course-info/assignments/README.md)
+  * [1. Roll & Race](course-info/assignments/1.-roll-and-race.md)
   * [1. Introduction to Hypothes.is](course-info/assignments/1.-introduction-to-hypothes.is.md)
   * [2. Writing up permanent notes](course-info/assignments/2.-writing-up-permanent-notes.md)
   * [3. Writing up idea and brainstorming notes](course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/README.md)
