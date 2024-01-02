@@ -7,7 +7,7 @@ By the end of the first week, what should you **know**, be able to **do** and **
 1. Get to know a bit about your professor and your fellow classmates
 2. Learn what the course is all about and how we're going to run it
 3. Figure out how to use some tools necessary for class
-4. Create a quick roll\&race historical game
+4. Create a quick [roll\&race](../course-info/assignments/1.-roll-and-race.md) historical game
 5. Have signed up as seminar leaders for the term.&#x20;
 
 ### Overview:
@@ -24,7 +24,7 @@ Read the syllabus section of this course guide and also the sections on Digital 
 
 ### Practice
 
-As a way to get to know one another and test your game design skills, in small groups we will work to develop a quick historical roll & race game.
+In class, as a way to get to know one another and flex your (incipient/advanced) game design skills, we will work in small groups to develop a quick historical[ roll & race game](../course-info/assignments/1.-roll-and-race.md).
 
 ### Prepare
 

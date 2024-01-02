@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Historical Game Studies - 2024\*](README.md)
-* [How to join class\*](how-to-join-the-online-class.md)
+* [How to join class](how-to-join-the-online-class.md)
 * [Schedule](schedule.md)
 * [Readings\*](readings.md)
 
