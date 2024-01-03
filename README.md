@@ -1,6 +1,6 @@
-# Historical Game Studies - 2024\*
+# Historical Game Studies - 2024
 
-## HIST 5906 - Historical Game Studies
+## HIST 5906W / DIGH 5902C- Historical Game Studies
 
 ### Overview
 
@@ -31,7 +31,7 @@ In class, we will use [Obsidian](https://obsidian.md/) to write and share resear
 You do not need to have any experience with games or gaming culture. Arguably games and play are a universal human endeavour and everyone has played games of some sort that you can draw on to understand the topic. I, your professor, am a medievalist, so my scholarly knowledge focuses on games relating to the Middle Ages. You are likely to be more knowledgeable than I am about the details of many games and game subcultures.&#x20;
 
 {% hint style="info" %}
-Courses involving games, games studies and game design tend to skew male. The Games industry certainly does and there is a history of sexism and discrimination behind it. This class is expressly intended crack open this world for anyone who is interested and to show that anyone can belong in this world – this is not a class only for the already initiated.
+Courses involving games, games studies and game design tend to skew male. The Game industry certainly does and there is a history of sexism and discrimination behind it. This class is expressly intended crack open this world for anyone who is interested and to show that anyone can belong in this world – this is not a class only for the already initiated.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/Fw0bzOBaAAI27zJ.png" alt=""><figcaption><p>As this chart suggest, society needs more gender diversity in the game design community. </p></figcaption></figure>

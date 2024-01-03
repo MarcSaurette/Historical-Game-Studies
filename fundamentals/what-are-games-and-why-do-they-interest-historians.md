@@ -6,21 +6,20 @@
 * trends in game studies scholarship
 * historical approaches to games
 
-### Goals for this week (September XXXXX th)
+### Goals for this week (September 18th)
 
 1. To understand how scholars define "Games" and why academics might be interested in them.
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies
-3. To consider key terminology about games and how to decribe and categorize them.
-4. Complete exercise 1 by the beginning of class.&#x20;
-5. Discuss if annotation process worked.&#x20;
+3. To consider key terminology about games and how to describe and categorize them.
+4. Discuss how the annotation process worked and figure out how Obsidian
 
 ### Overview:
 
-The week introduces you to the field of Games Studies. The professor will lead a discussion about the different ways to define what a "game" is and scholars have talked about them in the past.
+The week introduces you to the field of Historical Games Studies. The professor will lead a discussion about the different ways to define what a "game" is and scholars have talked about them in the past.
 
 * The professor will lead a discussion about the readings by C.T. Nguyen about games. This class, students should seek to answer the fundamental question: **What are games?**
 * We will have a joint brainstorming session to try to establish a game typology: i.e. how to distinguish between different kinds of games, where do we draw the lines betweens game, play, and sport?
-  * if we have time, we might also try to think about what games can teach us as historians - a topic we will explore in a bit more detail in the following week.&#x20;
+* we will also try to think about what games can teach us as historians.&#x20;
 
 ### Read/Watch/Listen
 
@@ -34,7 +33,13 @@ And also  C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford Univer
 
 * [https://academic.oup.com/book/32137/chapter/268094682](https://academic.oup.com/book/32137/chapter/268094682)
 
-And in addition, please listen and take notes from a recent podcast hosted [media scholar Cameron](https://twitter.com/ckunzelman) Kunzelman and [literature scholar Michael](https://twitter.com/WarrenIsDead) Lutz, called Game Studies Study Buddies.&#x20;
+Apostolos Spanos, "Pregame", in _Games of History : Games and Gaming as Historical Sources_. Routledge, 2021, "Pregame"[ Link to Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991023026456405153) catalogue.&#x20;
+
+Jane Draycott, "A short introduction to women in historical and archaeological video games," in _Women in Historical and Archaeological Video Games,_ De Gruyter, 2022, [Link to Library Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022995133105153).
+
+#### Optional Readings
+
+And in addition, you may wish to listen and take notes from a recent podcast hosted by [media scholar Cameron](https://twitter.com/ckunzelman) Kunzelman and [literature scholar Michael](https://twitter.com/WarrenIsDead) Lutz, called _Game Studies Study Buddies_.&#x20;
 
 {% hint style="info" %}
 Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Game Studies Study Buddies._ If you are in working in the field of Games Studies, this podcast is designed for you!
@@ -49,10 +54,6 @@ Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Ga
 {% endhint %}
 
 ### Practice
-
-{% hint style="info" %}
-Due 10am, the morning of the class. Detailed instructions can be found as [exercise no. 3](../course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/).&#x20;
-{% endhint %}
 
 * Write up a permanent note answering the question "what is a game".&#x20;
 * Create a new note, entitled something like, "Games I have played". Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a typology).&#x20;
@@ -76,7 +77,7 @@ If you want to read more about this topic, here is another detailed academic tex
 Also, there are a number of good podcasts about the field of Games Studies, such as:
 
 * [Games Studies Study Buddies](http://rangedtouch.com/game-studies-study-buddies/) - long podcasts (up to 2 hrs) discussing important books (both new and classic) in the field of games studies
-* [Gaming the Past](https://gamingthepast.net/theory-practice/gaming-the-past-designer-talks-podcast/) - Classical historian Jeremiah McCall talks to game designers about how they use history in their game design
+* [Gaming the Past](https://gamingthepast.net/theory-practice/gaming-the-past-designer-talks-podcast/) -  Historian Jeremiah McCall talks to game designers about how they use history in their game design
 * [Studying Pixels](https://studyingpixels.com) - two scholars talking about videogames, including current releases
 * [Designer Notes](https://www.idlethumbs.net/designernotes/) - an experienced game designer sits down with noted designers to find out by examining their careers as a whole.\
   \

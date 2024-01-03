@@ -15,7 +15,7 @@ By the end of the first week, what should you **know**, be able to **do** and **
 The class provides a transition back to school after Winter break. We'll discuss the syllabus and get to know one another. This week I want you to:&#x20;
 
 1. Before class, read the syllabus and [schedule](../schedule.md) on Gitbook (i.e. this place). Identify any questions you have and write them down.&#x20;
-2. Before class, start to use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
+2. Start to use [MS Teams](../course-info/digital-tools/teams.md) (activate, install and login to the class group).&#x20;
 3. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
 
 ### Read/Watch/Listen
@@ -25,6 +25,8 @@ Read the syllabus section of this course guide and also the sections on Digital 
 ### Practice
 
 In class, as a way to get to know one another and flex your (incipient/advanced) game design skills, we will work in small groups to develop a quick historical[ roll & race game](../course-info/assignments/1.-roll-and-race.md).
+
+For next class, try out using hypothesis to annotate some or all of the readings.&#x20;
 
 ### Prepare
 
@@ -45,3 +47,7 @@ This week, you are asked to download, install, set up or sign up for the followi
 {% content-ref url="../course-info/digital-tools/zotero/" %}
 [zotero](../course-info/digital-tools/zotero/)
 {% endcontent-ref %}
+
+### Going Further
+
+You might want to delve into podcasts on game studies or game design. This weeks suggestion is the [Ludology podcast](https://ludology.libsyn.com) which has this "biography" of the classic roll & race, [Candyland](https://ludology.libsyn.com/size/5/?search=candyland) (also available on Apple Podcasts and others).&#x20;

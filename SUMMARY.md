@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Historical Game Studies - 2024\*](README.md)
+* [Historical Game Studies - 2024](README.md)
 * [How to join class](how-to-join-the-online-class.md)
 * [Schedule](schedule.md)
-* [Readings\*](readings.md)
+* [Readings](readings.md)
 
 ## Course Information <a href="#course-info" id="course-info"></a>
 
@@ -34,7 +34,7 @@
   * [Deadlines](course-info/syllabus/deadlines.md)
 * [Exercises\*](course-info/assignments/README.md)
   * [1. Roll & Race](course-info/assignments/1.-roll-and-race.md)
-  * [1. Introduction to Hypothes.is](course-info/assignments/1.-introduction-to-hypothes.is.md)
+  * [2. Introduction to Hypothes.is\*](course-info/assignments/2.-introduction-to-hypothes.is.md)
   * [2. Writing up permanent notes](course-info/assignments/2.-writing-up-permanent-notes.md)
   * [3. Writing up idea and brainstorming notes](course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/README.md)
     * [3.2 What Type of Player Are You?](course-info/assignments/3.-writing-up-idea-and-brainstorming-notes/3.2-what-type-of-player-are-you.md)
@@ -74,4 +74,5 @@
 * [Do we take shelter - Playtest](ludic-experiments/do-we-take-shelter-playtest.md)
 * [Do we take shelter? Discussion with the game designer](ludic-experiments/do-we-take-shelter-discussion-with-the-game-designer.md)
 * [Student Presentations](ludic-experiments/student-presentations.md)
-* [Free Topics I & II](ludic-experiments/free-topics-i-and-ii.md)
+* [Free Topics I](ludic-experiments/free-topics-i.md)
+* [Free Topic II](ludic-experiments/free-topic-ii.md)
