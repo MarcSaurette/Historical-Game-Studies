@@ -13,7 +13,9 @@ A. Chapman, _Digital Games As History: How Videogames Represent The Past And Off
 
 E. Pfister and A. Görgen, _„_How to analyse a Video game? The HGP-Method“ in:  Horror-Game-Politics, \<http://hgp.hypotheses.org/1754> 03.08.2022
 
-J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium".
+J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium". [https://gamestudies.org/2003/articles/mccall](https://gamestudies.org/2003/articles/mccall)
+
+* &#x20;McCall's [website](https://gamingthepast.net/theory-practice/the-historical-problem-space-framework-for-game-analysis/) on his HPS framework (links to additional articles and diagrams)
 
 #### Case Studies:
 
