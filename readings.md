@@ -44,7 +44,7 @@ This is an overview of readings. Detailed readings with complete citations and l
 * A. Clulow et al. "[Designing Historical Video Game](https://notevenpast.org/designing-historical-video-games/)s"
   * [https://epochutaustin.itch.io/ako-a-test-of-loyalty](https://epochutaustin.itch.io/ako-a-test-of-loyalty)
 
-[February 15](fundamentals/where-are-the-game-archives.md)
+[February 15](fundamentals/where-are-the-game-archives/)
 
 * M.J.P. Wolf and B. Perron, ed. _The Routledge Companion to Video Game Studies_, chp. 7, "Preservation"&#x20;
 * R. Guins, _Game After : A Cultural Study of Video Game Afterlife_, chp 1, "Museified"
