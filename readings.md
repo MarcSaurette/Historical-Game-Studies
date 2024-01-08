@@ -18,11 +18,12 @@ This is an overview of readings. Detailed readings with complete citations and l
 [January 25](fundamentals/how-to-analyze-history-games.md)
 
 * A. Chapman, _Digital Games As History: How Videogames Represent The Past And Offer Access To Historical Practice._
+* E. Pfister and A. Görgen, _„_How to analyse a Video game? The HGP-Method“
 * J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium".
-* T. Watterson, "'Make him a woman:' Gender and witches in _Darklands,_" in _WHAVG._
 * B. Hoy, “Cardboard Indians: Playing History in the American West”.
-* J.L. Gonzalo Iglesia, "Simulating History in Contemporary Board Games: The case of the Spanish Civil War".
-* (Optional) C. Fernández-Vara,  _Introduction to Game Analysis._
+*   H. Nielsen, ‘Men should try playing the woman’s part to see what it feels like.
+
+    Remember \~ it’s only a game . . .’ The representation of gendered experience in chance-based board games", in _Material Games Studies: A Philosophy of Analogue Play_.
 
 [February 1](fundamentals/what-do-games-teach.md)
 
