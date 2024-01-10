@@ -15,7 +15,3 @@ When you successfully install Obsidian and get it running, it will open with a w
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-13 at 2.03.42 PM.png" alt=""><figcaption><p>The sidebar shows my various vaults which I use with Obsidian. Yours will likely be empty unless you created a vault already. </p></figcaption></figure>
 
 Click on 'Open Folder as Vault". It will then ask you whether you trust the author of this vault, Please say yes! It will be much harder for you if you don't.&#x20;
-
-When you install the vault for the class, it will look like the following window. You can navigate through the different notes and folders via the left sidebar. For more instructions on using Obsidian, also complete [exercise no. 1](../../assignments/2.-introduction-to-hypothes.is.md), integrating Obsidian with hypothesis.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-13 at 2.02.18 PM.png" alt=""><figcaption><p>This is what obsidian will look like when you have added the class vault. </p></figcaption></figure>

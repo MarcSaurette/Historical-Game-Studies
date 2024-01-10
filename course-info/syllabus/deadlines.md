@@ -6,12 +6,13 @@ Please let me know (in advance) if there are good reasons for why you can't get 
 
 ### Important Dates
 
-| **Assignment**                                  | **Date due**                         |
-| ----------------------------------------------- | ------------------------------------ |
-| Annotated Bibliography                          | February 1, 2024 (by start of class) |
-| Second Assignment                               | March 7th, 2024 (by start of class)  |
-| Third Assignment                                | April 10th, 2024 (by 5pm)            |
-| [Process Letter](coursework/process-letters.md) | April 10th, 2024 (by 5pm)            |
+| **Assignment**                                                                | **Date due**                         |
+| ----------------------------------------------------------------------------- | ------------------------------------ |
+| [Annotated Bibliography](coursework/reflections/1.-annotated-bibliography.md) | February 1, 2024 (by start of class) |
+| Second Assignment                                                             | March 7th, 2024 (by start of class)  |
+| Project Presentations                                                         | March 14th & 21st (in class)         |
+| Third Assignment                                                              | April 10th, 2024 (by 5pm)            |
+| [Process Letter](coursework/process-letters.md)                               | April 10th, 2024 (by 5pm)            |
 
 ### Extensions and Accommodations
 
