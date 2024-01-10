@@ -14,8 +14,6 @@ _**Teams**_ is one of the many "enterprise tools"  you will be using (i.e. digit
 You can also install no software at all and just use Teams through a browser – I really don't recommend this, but it is open to you.&#x20;
 {% endhint %}
 
-
-
 1. So, you've likely already installed [MS Office 365](office.md). You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, microsoft.&#x20;
 2. Now, Carleton ITS has instructions on how to install Teams. You can see if you can follow along with their instructions, [here](https://carleton.ca/its/teams/download-app/). You fall into the category of "unmanaged PC" or Mac.&#x20;
 3. If you don't want to click to that page, install Teams our way. You can download mobile or desktop versions for most operating systems at the Canadian Microsoft site: [https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/download-app)&#x20;
@@ -63,8 +61,11 @@ Or it might just keep sending you back to this message recursively. I would love
 \
 To **enable** Microsoft Office 365 Services, (other than email which is pre-enabled), accept Microsoft’s offer here:
 
-* **Students**: [carleton.ca/its/ms-offer-students](https://carleton.ca/its/ms-offer-students)
-* **Staff/faculty**: [carleton.ca/its/ms-offer-faculty](https://carleton.ca/its/ms-offer-faculty)
+1 - Go to [https://products.office.com/en-us/student/office-in-education](https://products.office.com/en-us/student/office-in-education)
+
+2 - Provide your student email address: e.g; janedoe@cmail.carleton.ca _← **not** jane.doe@carleton.ca_
+
+3- Select **I’m a student**
 
 &#x20;2\. If that doesn't work, email its.service.desk@carleton.ca for help.
 
