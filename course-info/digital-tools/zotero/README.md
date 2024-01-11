@@ -1,5 +1,9 @@
 # Zotero
 
+{% hint style="info" %}
+For quick reference, the class Zotero group can be found here: [https://www.zotero.org/groups/5073505/historical\_games\_studies](https://www.zotero.org/groups/5073505/historical\_games\_studies)
+{% endhint %}
+
 [Zotero](https://www.zotero.org) is, as they describe themselves, "Your personal research assistant. Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research." It is an [open source](https://github.com/zotero) tool developed by an independent, nonprofit organization (i.e. it doesn't want to monetize your information).&#x20;
 
 Essentially, Zotero is software that allows you to keep track of your research. It tracks bibliographic information (metadata) for resources, articles and books you read, and you can use it to organize and keep copies of pdfs or websites on your computer (or accessible online too). Zotero can also be used with word processors, such as Word or Google Docs to automatically (well, sort of automatically) format footnotes, endnotes, and bibliography. If you want to change a reference from Chicago or Turabian style to MLA, you can do that (almost) with a click of a button.&#x20;
@@ -13,7 +17,7 @@ Zotero can take a bit of time to get used to, but if you regularly use it, Zoter
 1. You will need to register for a free account [here](https://www.zotero.org/user/register).
 2. You will need to download the free software [here](https://www.zotero.org/download/) and install the software on your computer. Zotero works best if you also install the plugin on your internet browser, to enable you to add content to your repository with a single click.
 3. If you have problems installing it, consult the Zotero website [here](https://www.zotero.org/support/installation).&#x20;
-4. You could join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/4632968/gaming\_the\_middle\_ages), but I need to invite everyone, which I will do when it seems useful for us to start to use (likely mid Fall term).
+4. You could join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/5073505/historical\_games\_studies), but I need to invite everyone, which I will do when it seems useful for us to start to use (likely week three).
 5. Zotero is something that you can use at many different levels of increasing complexity. I'll show  you the basics and how to use it with Obsidian (optional).
 
 {% hint style="info" %}
