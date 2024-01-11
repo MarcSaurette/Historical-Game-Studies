@@ -2,16 +2,16 @@
 
 ### Key Ideas
 
-* major definitions of "game"
+* definition of "game"
 * trends in game studies scholarship
 * historical approaches to games
 
 ### Goals for this week (September 18th)
 
 1. To understand how scholars define "Games" and why academics might be interested in them.
-2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies
+2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies and at other times
 3. To consider key terminology about games and how to describe and categorize them.
-4. Discuss how the annotation process worked
+4. Practice using social annotation for reading scholarly articles.&#x20;
 
 ### Overview:
 
@@ -20,6 +20,13 @@ The week introduces you to the field of Historical Games Studies. The professor 
 * The professor will lead a discussion about the readings by C.T. Nguyen about games. This class, students should seek to answer the fundamental question: **What are games?**
 * We will have a joint brainstorming session to try to establish a game typology: i.e. how to distinguish between different kinds of games, where do we draw the lines betweens game, play, and sport?
 * we will also try to think about what games can teach us as historians.&#x20;
+
+### Questions to guide the readings
+
+1. What is a game?
+2. How have scholars defined games differently over time?&#x20;
+3. How does Nguyen categorize existing scholarship?  (his literature survey will be useful for comparison when we read others in later weeks) and how would his survey fit with Draycott's?
+4. How to categorize games?
 
 ### Read/Watch/Listen
 
@@ -55,12 +62,12 @@ Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Ga
 
 ### Practice
 
-* Make annotations using hypothes.is for the readings.&#x20;
+* Make annotations using [hypothes.is](../course-info/digital-tools/hypothes.is.md) for the readings.&#x20;
 * Write up a game user log entitled something like, "Games I have played". Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a typology). Be prepared to discuss this in class.&#x20;
 
 ### Prepare
 
-After this class, set up [Obsidian](../course-info/digital-tools/obsidian/) and install the class "vault".
+After this class, set up [Obsidian](../course-info/digital-tools/obsidian/) and install the provided class "vault".
 
 ### Going Further
 

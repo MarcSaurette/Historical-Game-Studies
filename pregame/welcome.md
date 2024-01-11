@@ -8,7 +8,7 @@ By the end of the first week, what should you **know**, be able to **do** and **
 2. Learn what the course is all about and how we're going to run it
 3. Figure out how to use some tools necessary for class
 4. Create a quick [roll\&race](../course-info/assignments/1.-roll-and-race.md) historical game
-5. Have signed up as seminar leaders for the term.&#x20;
+5. &#x20;Sign up as seminar leaders for the term. [Sign up in linked google sheet.](https://docs.google.com/spreadsheets/d/1sc6SoN0CVrn\_x6d-plT6uRORx95Uh\_Oojer2ZXjaR1g/edit?usp=sharing)&#x20;
 
 ### Overview:
 
@@ -20,7 +20,7 @@ The class provides a transition back to school after Winter break. We'll discuss
 
 ### Read/Watch/Listen
 
-Read the syllabus section of this course guide and also the sections on Digital Tools.&#x20;
+Read the syllabus section of this course guide and also the sections on Digital Tools. Spend some time figuring out how this website works (it shows how my brain organizes information, but might take some time before it makes sense to yours).&#x20;
 
 ### Practice
 
