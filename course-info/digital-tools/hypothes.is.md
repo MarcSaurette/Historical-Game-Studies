@@ -11,10 +11,8 @@ The following are instructions for using hypothesis on a laptop/desktop. If you 
 {% endhint %}
 
 {% hint style="warning" %}
-Hypothes.is works best when integrated with Obsidian. Obsidian plugins will only scrape your annotations for web resources. So if you are annotating a local file (i.e. a pdf on your desktop) you can temporarily upload it to [https://docdrop.org/](https://docdrop.org/) to have a url that Obsidian plugins can read.&#x20;
+For us, hypothes.is will work best when integrated with Obsidian. Obsidian plugins will only scrape your annotations for web resources, unfortunately, so other resources can be necessary to be used to annotate local files.&#x20;
 {% endhint %}
-
-
 
 ### Quick start:
 
@@ -64,11 +62,11 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.36.21%20AM.png)
 
-12\. Then click [this link ](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages)to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly (which is the default). The link will ask you to sign in again.&#x20;
+12\. Then click [this link](https://hypothes.is/groups/1PgDxDb1/historical-games-studies) to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly (which is the default). The link will ask you to sign in again.&#x20;
 
 ![Yes, I stole this screen shot from a guide for another class...](../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.44.24%20AM.png)
 
-13\. Then go back to the hypothes.is sidebar and on its top left corner you can select from "My Groups" i.e. where your annotations will appear. These are my choices - if you're using this for the first time your choices will be "Public" and "HIST2000 Medieval Europe". Select the second on the drop down menu. You'll notice that at the bottom of this drop down menu is the option to create a "New Private Group". If you want a group for annotations for doing research, you can create it and share it with others if you want.&#x20;
+13\. Then go back to the hypothes.is sidebar and on its top left corner you can select from "My Groups" i.e. where your annotations will appear. These are my choices - if you're using this for the first time your choices will be "Public" and "Historical Game Studies". Select the second on the drop down menu. You'll notice that at the bottom of this drop down menu is the option to create a "New Private Group". If you want a group for annotations for doing research, you can create it and share it with others if you want.&#x20;
 
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.36.44%20AM.png)
 
