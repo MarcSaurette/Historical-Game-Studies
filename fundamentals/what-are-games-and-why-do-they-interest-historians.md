@@ -29,7 +29,7 @@ Nguyen, C. Thi. “Philosophy of Games.” Philosophy compass 12, no. 8 (2017)
 
 * [https://journals-scholarsportal-info.proxy.library.carleton.ca/pdf/17479991/v12i0008/na\_pcpog.xml](https://journals-scholarsportal-info.proxy.library.carleton.ca/pdf/17479991/v12i0008/na\_pcpog.xml)
 
-And also  C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford University Press, 2020. [https://doi.org/10.1093/oso/9780190052089.003.0001](https://doi.org/10.1093/oso/9780190052089.003.0001), accessed 17 Sept. 2022.
+And also  by C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford University Press, 2020. [https://doi.org/10.1093/oso/9780190052089.003.0001](https://doi.org/10.1093/oso/9780190052089.003.0001), accessed 17 Sept. 2022.
 
 * [https://academic.oup.com/book/32137/chapter/268094682](https://academic.oup.com/book/32137/chapter/268094682)
 
