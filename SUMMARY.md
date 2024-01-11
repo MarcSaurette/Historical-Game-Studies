@@ -63,10 +63,10 @@
 
 ## Fundamentals
 
-* [What are Games and why do they interest historians?\*](fundamentals/what-are-games-and-why-do-they-interest-historians.md)
-* [How to analyze History games](fundamentals/how-to-analyze-history-games.md)
-* [What do Games teach?](fundamentals/what-do-games-teach.md)
-* [History Game Design](fundamentals/history-game-design.md)
+* [What are Games and why do they interest historians?](fundamentals/what-are-games-and-why-do-they-interest-historians.md)
+* [How to analyze History games\*](fundamentals/how-to-analyze-history-games.md)
+* [What do Games teach?\*](fundamentals/what-do-games-teach.md)
+* [History Game Design\*](fundamentals/history-game-design.md)
 * [Where are the Game Archives?](fundamentals/where-are-the-game-archives/README.md)
   * [Videogame Archives Initiatives](fundamentals/where-are-the-game-archives/videogame-archives-initiatives.md)
 
