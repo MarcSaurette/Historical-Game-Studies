@@ -10,8 +10,6 @@ Do what you need to do to install it. In macOS, I needed to double click on the 
 
 
 
-When you successfully install Obsidian and get it running, it will open with a window that looks like this:
+When you successfully install Obsidian and get it running, it will open with a window that looks like this; except if you're using it for the first time you won't have any "vaults" in the sidebar. You can create your own to test out how it works, but I will also create a starter vault for the course for you to download (with readings, templates etc.).
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-09-13 at 2.03.42 PM.png" alt=""><figcaption><p>The sidebar shows my various vaults which I use with Obsidian. Yours will likely be empty unless you created a vault already. </p></figcaption></figure>
-
-Click on 'Open Folder as Vault". It will then ask you whether you trust the author of this vault, Please say yes! It will be much harder for you if you don't.&#x20;
