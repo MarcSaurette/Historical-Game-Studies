@@ -11,7 +11,7 @@
 1. To understand how scholars define "Games" and why academics might be interested in them.
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies
 3. To consider key terminology about games and how to describe and categorize them.
-4. Discuss how the annotation process worked and figure out how Obsidian
+4. Discuss how the annotation process worked
 
 ### Overview:
 
@@ -55,14 +55,12 @@ Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Ga
 
 ### Practice
 
-* Write up a permanent note answering the question "what is a game".&#x20;
-* Create a new note, entitled something like, "Games I have played". Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a typology).&#x20;
+* Make annotations using hypothes.is for the readings.&#x20;
+* Write up a game user log entitled something like, "Games I have played". Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a typology). Be prepared to discuss this in class.&#x20;
 
-```
-1. Balderdash
-2. Kahoots
-3. [[Minecraft]]
-```
+### Prepare
+
+After this class, set up [Obsidian](../course-info/digital-tools/obsidian/) and install the class "vault".
 
 ### Going Further
 
@@ -77,7 +75,7 @@ If you want to read more about this topic, here is another detailed academic tex
 Also, there are a number of good podcasts about the field of Games Studies, such as:
 
 * [Games Studies Study Buddies](http://rangedtouch.com/game-studies-study-buddies/) - long podcasts (up to 2 hrs) discussing important books (both new and classic) in the field of games studies
-* [Gaming the Past](https://gamingthepast.net/theory-practice/gaming-the-past-designer-talks-podcast/) -  Historian Jeremiah McCall talks to game designers about how they use history in their game design
-* [Studying Pixels](https://studyingpixels.com) - two scholars talking about videogames, including current releases
+* [Gaming the Past](https://gamingthepast.net/theory-practice/gaming-the-past-designer-talks-podcast/) -  As a covid activity, historian Jeremiah McCall talked to game designers about how they use history in their game design
+* [Studying Pixels](https://studyingpixels.com) - two scholars talking about videogames, including current releases (now archived)
 * [Designer Notes](https://www.idlethumbs.net/designernotes/) - an experienced game designer sits down with noted designers to find out by examining their careers as a whole.\
   \
