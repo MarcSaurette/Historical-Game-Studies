@@ -59,7 +59,7 @@
 
 ## Pregame
 
-* [Prelude\*](pregame/welcome.md)
+* [Prelude](pregame/welcome.md)
 
 ## Fundamentals
 

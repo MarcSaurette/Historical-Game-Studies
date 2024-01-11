@@ -1,10 +1,10 @@
-# Prelude\*
+# Prelude
 
 ### Goals for this week (January 11th, 2024)
 
-By the end of the first week, what should you **know**, be able to **do** and **understand**?
+By the end of the first week, what should you **know**, be able to **do** and **understand**? You will:
 
-1. Get to know a bit about your professor and your fellow classmates
+1. Know a bit about your professor and your fellow classmates
 2. Learn what the course is all about and how we're going to run it
 3. Figure out how to use some tools necessary for class
 4. Create a quick [roll\&race](../course-info/assignments/1.-roll-and-race.md) historical game
