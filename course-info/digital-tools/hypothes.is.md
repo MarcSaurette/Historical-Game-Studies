@@ -40,7 +40,7 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 6\. If you need to reopen Chrome after installing the hypothes.is extensions, do so and navigate to any webpage. You should now find the hypothes.is icon on your browser. You can click on the icon to start it up hypothes.is.&#x20;
 
-![After I took these screenshots I realized that hypothes.is does not work with Gitbook](../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.16.27%20AM.png)
+![After I took these screenshots I realized that hypothes.is does not work with Gitbook. Please ignore that these images are from another class tutorial that I have shamelessly reused. ](../../.gitbook/assets/Screen%20Shot%202020-06-17%20at%209.16.27%20AM.png)
 
 7\. It will open up a new sidebar. This is what mine looks like on a page I have already begun to annotate.&#x20;
 
@@ -74,4 +74,4 @@ We will use hypothes.is _via_ a plug-in for Chrome or a Bookmarklet on other bro
 
 15\. For more of a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
-Join us here: [https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages](https://hypothes.is/groups/q2GDRx7E/gaming-the-middle-ages)
+Join us here: [https://hypothes.is/groups/1PgDxDb1/historical-games-studies](https://hypothes.is/groups/1PgDxDb1/historical-games-studies)
