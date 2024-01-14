@@ -19,25 +19,25 @@ This is an overview of readings. Detailed readings with complete citations and l
 
 * A. Chapman, _Digital Games As History: How Videogames Represent The Past And Offer Access To Historical Practice._
 * E. Pfister and A. Görgen, _„_How to analyse a Video game? The HGP-Method“
-* J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium".
+* J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium". (web only)
 * B. Hoy, “Cardboard Indians: Playing History in the American West”.
 *   H. Nielsen, ‘Men should try playing the woman’s part to see what it feels like.
 
-    Remember \~ it’s only a game . . .’ The representation of gendered experience in chance-based board games", in _Material Games Studies: A Philosophy of Analogue Play_.
+    Remember \~ it’s only a game . . .’ The representation of gendered experience in chance-based board games", in _Material Games Studies: A Philosophy of Analogue Play_. (pdf only)
 
 [February 1](fundamentals/what-do-games-teach.md)
 
 * K. Kee, S. Graham et al. "Towards a Theory of Good History Through Gaming"
-* R. Houghton, "Teaching the Middle Ages through Modern Games"
-* N. Dahya, J. Jenson, and K. Fong, "(En)gendering videogame development: A feminist approach to gender, education, and game studies"
-* C. Konshuh and F. Klaassen, "The Renaissance Marriage Game: A Simulation for Large Classes"
+* R. Houghton, "Teaching the Middle Ages through Modern Games" in _Teaching the Middle Ages through Modern Games_.
+* N. Dahya, J. Jenson, and K. Fong, "(En)gendering videogame development: A feminist approach to gender, education, and game studies".
+* C. Konshuh and F. Klaassen, "The Renaissance Marriage Game: A Simulation for Large Classes," in _Teaching the Middle Ages through Modern Games_.
   * Card deck and rules
 
 [February 8](fundamentals/history-game-design.md)
 
 * Mark J. P. Wolf and Bernard Perron, ed. _The Routledge Companion to Video Game Studies_, chp. 20, "Game Design"&#x20;
 * Y. Grufstedt, _Shaping the Past: Counterfactual History and Game Design Practice in Digital Strategy Games_, chp. 2.
-* F. Klaassen. "Game Development in a Senior Seminar"
+* F. Klaassen. "Game Development in a Senior Seminar" in _Teaching the Middle Ages through Modern Games_.
   * Virtus card deck and rules
 * [Making Historical Boardgames](https://qubpublichistory.wordpress.com/2019/10/07/making-historical-board-games/#\_ftn2)
   * [Cards and rulebooks](https://drive.google.com/drive/folders/1PKYX8NaWyutnHMbKhqsXW20L7OwrxiMr?usp=sharing)
@@ -58,13 +58,13 @@ This is an overview of readings. Detailed readings with complete citations and l
 
 [February 29](ludic-experiments/do-we-take-shelter-playtest.md)
 
-T.C. Hagood, C.E. Watson, and B.M. Williams, "Reacting to the Past: An Introduction to Its Scholarly Foundation"
+T.C. Hagood, C.E. Watson, and B.M. Williams, "Reacting to the Past: An Introduction to Its Scholarly Foundation" in Watson & Hagood eds. _Playing to Learn with Reacting to the Past._
 
 [March 7](ludic-experiments/do-we-take-shelter-discussion-with-the-game-designer.md)
 
 J.R. Schiffman, "Early Design Challenges in Developing a Reacting to the Past Game"
 
-C.M. Kuusinen and C.E. Watson, "How to Perform Educational Research in Reacting to the Past Settings: A Primer for the Scholarship of Teaching and Learning"
+C.M. Kuusinen and C.E. Watson, "How to Perform Educational Research in Reacting to the Past Settings: A Primer for the Scholarship of Teaching and Learning" in Watson & Hagood eds. _Playing to Learn with Reacting to the Past._
 
 [March 14](ludic-experiments/student-presentations.md)
 
