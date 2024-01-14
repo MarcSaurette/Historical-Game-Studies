@@ -35,7 +35,7 @@
 * [Exercises\*](course-info/assignments/README.md)
   * [1. Roll & Race](course-info/assignments/1.-roll-and-race.md)
   * [2a. Game User Log](course-info/assignments/2a.-game-user-log.md)
-  * [2b. Introduction to Hypothes.is\*](course-info/assignments/2b.-introduction-to-hypothes.is.md)
+  * [2b. Introduction to Hypothes.is](course-info/assignments/2b.-introduction-to-hypothes.is.md)
   * [3. Starting with SmartNotes\*](course-info/assignments/3.-starting-with-smartnotes.md)
   * [Integrating Hypothes.is with Obsidian\*](course-info/assignments/integrating-hypothes.is-with-obsidian.md)
 * [Digital Tools](course-info/digital-tools/README.md)
