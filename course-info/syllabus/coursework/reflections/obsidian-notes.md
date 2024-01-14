@@ -34,7 +34,7 @@ You write _literature notes_ to show how you have thought about the reading. Lit
 {% endtab %}
 
 {% tab title="Permanent Notes" %}
-You write _idea notes_ to gather together similar thoughts on a central topic. You might want to have a note on "what is a game", which gets added to as you read more about history games. _Idea notes_ (aka permanent notes) are meant to exist as nodes for your thinking and start to show intellectual collisions or agreements by different authors. These sorts of notes are very useful in establishing historiographical trends in scholarship (and the geneaology of ideas).&#x20;
+You write _permanent_ or _idea notes_ to gather together similar thoughts on a central topic. You might want to have a note on "what is a game", which gets added to as you read more about history games. _Idea notes_ (aka permanent notes) are meant to exist as nodes for your thinking and start to show intellectual collisions or agreements by different authors. These sorts of notes are very useful in establishing historiographical trends in scholarship (and the geneaology of ideas).&#x20;
 {% endtab %}
 {% endtabs %}
 
