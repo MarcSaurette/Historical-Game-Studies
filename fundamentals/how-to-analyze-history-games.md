@@ -1,4 +1,4 @@
-# How to analyze History games
+# How to analyze History games\*
 
 Goals:&#x20;
 
@@ -22,6 +22,10 @@ J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium
 B. Hoy, “Cardboard Indians: Playing History in the American West”.
 
 H. Nielsen, ‘Men should try playing the woman’s part to see what it feels like. Remember \~ it’s only a game . . .’ The representation of gendered experience in chance-based board games", in _Material Games Studies: A Philosophy of Analogue Play_.
+
+### Practice
+
+
 
 ### Going further
 
