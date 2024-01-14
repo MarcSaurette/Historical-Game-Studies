@@ -17,8 +17,8 @@
 
 The week introduces you to the field of Historical Games Studies. The professor will lead a discussion about the different ways to define what a "game" is and scholars have talked about them in the past.
 
-* The professor will lead a discussion about the readings by C.T. Nguyen about games. This class, students should seek to answer the fundamental question: **What are games?**
-* We will have a joint brainstorming session to try to establish a game typology: i.e. how to distinguish between different kinds of games, where do we draw the lines betweens game, play, and sport?
+* we will have a discussion about the readings by Nguyen, Spanos and Draycott about games. This class, students should seek to answer the fundamental question: **What are games?**
+* We will have a joint brainstorming session to try to establish a game typology: i.e. how to distinguish between different kinds of games, where do we draw the lines between game, play, and sport?
 * we will also try to think about what games can teach us as historians.&#x20;
 
 ### Questions to guide the readings
