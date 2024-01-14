@@ -63,7 +63,7 @@ Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Ga
 ### Practice
 
 * Make annotations using [hypothes.is](../course-info/digital-tools/hypothes.is.md) for the readings.&#x20;
-* Write up a game user log entitled something like, "Games I have played". Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a typology). Be prepared to discuss this in class.&#x20;
+* Write up a game user log \[[Instructions here](../course-info/assignments/2a.-game-user-log.md)]  Make a list of all the games you have played in your life - games you played with toys, commercial games, games [you made up](https://tvtropes.org/pmwiki/pmwiki.php/Main/Calvinball). Be as exhaustive as possible. Try to organize them into groups or categories (or a typology). Be prepared to discuss this in class.&#x20;
 
 ### Prepare
 
