@@ -37,7 +37,7 @@
   * [2a. Game User Log](course-info/assignments/2a.-game-user-log.md)
   * [2b. Introduction to Hypothes.is](course-info/assignments/2b.-introduction-to-hypothes.is.md)
   * [3. Starting with Obsidian\*](course-info/assignments/3.-starting-with-obsidian.md)
-  * [3b. Integrating Hypothes.is with Obsidian\*](course-info/assignments/3b.-integrating-hypothes.is-with-obsidian.md)
+  * [3b. Annotating with Obsidian\*](course-info/assignments/3b.-annotating-with-obsidian.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
   * [Teams](course-info/digital-tools/teams.md)
