@@ -3,7 +3,7 @@
 ### Goals:&#x20;
 
 * This week we will read different historical approaches to games including a few examples of what this looks like.&#x20;
-* Our focus this week will be on _modern_ history games, that is, contemporary games that represent the past. We need to ask what are the suitable objects of our analysis as historians, what kinds of questions should we ask and how do we make arguments that support&#x20;
+* Our focus this week will be on _modern_ history games, that is, contemporary games that represent the past. We need to ask what are the suitable objects of our analysis as historians and what kinds of questions should we ask (and answer).&#x20;
 
 ### Read/Watch/Listen
 
