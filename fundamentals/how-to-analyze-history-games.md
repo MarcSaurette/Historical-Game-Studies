@@ -9,7 +9,7 @@
 
 #### Methodologies:
 
-A. Chapman, _Digital Games As History: How Videogames Represent The Past And Offer Access To Historical Practice._
+A. Chapman, _Digital Games As History: How Videogames Represent The Past And Offer Access To Historical Practice,_ chps. 1, 2 & 10 (intro, chapter, conclusion).
 
 E. Pfister and A. Görgen, _„_How to analyse a Video game? The HGP-Method“ in:  Horror-Game-Politics, <[http://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)> 03.08.2022
 
