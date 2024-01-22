@@ -38,7 +38,7 @@
   * [2b. Introduction to Hypothes.is](course-info/assignments/2b.-introduction-to-hypothes.is.md)
   * [3. Starting with Obsidian](course-info/assignments/3.-starting-with-obsidian.md)
   * [3b. Annotating with Obsidian](course-info/assignments/3b.-annotating-with-obsidian.md)
-  * [4. Reference/Literature Notes](course-info/assignments/4.-reference-literature-notes.md)
+  * [4. Reference/Literature Notes](course-info/assignments/4a.-reference-notes.md)
   * [5. Collecting Literature Notes](course-info/assignments/5.-collecting-literature-notes.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
