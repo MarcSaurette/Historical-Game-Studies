@@ -1,5 +1,11 @@
 # What are Games and why do they interest historians?
 
+###
+
+{% hint style="info" %}
+Holly's slideshow on [Canva](https://www.canva.com/design/DAF6Kw6Tu4w/kmUbsJi7nLJzDo7UAuXxGA/view?utm\_content=DAF6Kw6Tu4w\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=viewer).
+{% endhint %}
+
 ### Key Ideas
 
 * definition of "game"
@@ -11,7 +17,7 @@
 1. To understand how scholars define "Games" and why academics might be interested in them.
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies and at other times
 3. To consider key terminology about games and how to describe and categorize them.
-4. Practice using social annotation for reading scholarly articles.&#x20;
+4. Practice using social annotation for reading scholarly articles and use Obsidian for note taking.&#x20;
 
 ### Overview:
 
@@ -67,7 +73,7 @@ Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Ga
 
 ### Prepare
 
-After this class, set up [Obsidian](../course-info/digital-tools/obsidian/) and install the provided class "vault".
+After this class, set up [Obsidian](../course-info/digital-tools/obsidian/) and install the provided class "vault". Exercises [3](../course-info/assignments/3.-starting-with-obsidian.md) and [3b](../course-info/assignments/3b.-annotating-with-obsidian.md).&#x20;
 
 ### Going Further
 

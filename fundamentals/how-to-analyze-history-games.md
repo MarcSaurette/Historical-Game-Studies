@@ -1,9 +1,10 @@
-# How to analyze History games\*
+# How to analyze History games
 
 ### Goals:&#x20;
 
 * This week we will read different historical approaches to games including a few examples of what this looks like.&#x20;
-* Our focus this week will be on _modern_ history games, that is, contemporary games that represent the past. We need to ask what are the suitable objects of our analysis as historians and what kinds of questions should we ask (and answer).&#x20;
+* Our focus this week will be on _modern_ history games, that is, contemporary games that represent the past. We need to ask what are the suitable objects of our analysis as historians and what kinds of questions should we ask (and answer).
+* By classtime, you should have installed Obsidian and completed exercises [3](../course-info/assignments/3.-starting-with-obsidian.md) and [3b](../course-info/assignments/3b.-annotating-with-obsidian.md). &#x20;
 
 ### Read/Watch/Listen
 
@@ -25,7 +26,7 @@ H. Nielsen, ‘Men should try playing the woman’s part to see what it feels li
 
 ### Practice
 
-Complete exercises 3 and 3b (using Obsidian).&#x20;
+Complete Exercises [3](../course-info/assignments/3.-starting-with-obsidian.md) and [3b](../course-info/assignments/3b.-annotating-with-obsidian.md) (using Obsidian).&#x20;
 
 ### Going further
 
