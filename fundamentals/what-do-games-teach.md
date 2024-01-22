@@ -1,9 +1,9 @@
-# What do Games teach?\*
+# What do Games teach?
 
 ### Goals for this week (February 1st)
 
 * &#x20;Our goal this week is to reflect on the pedagogical value of games - what do they teach, how do they teach? Games have tremendous potential value for classrooms, museums, galleries and other public history venues, but we should consider what we might want games to do when communicating history.&#x20;
-*
+* Another goal is to get you practicing using Obsidian for making notes. You will practice creating notes and importing your annotations into them. By class, you should have completed [exercise 4](../course-info/assignments/4.-reference-literature-notes.md).&#x20;
 
 ### Read/Watch/Listen
 
@@ -20,6 +20,6 @@ C. Konshuh and F. Klaassen, "The Renaissance Marriage Game: A Simulation for Lar
 
 * [Card deck and rules](http://historygames.usask.ca/islandora/object/historygames%3A21)
 
-Prepare:
+### Prepare:
 
-Our goal is&#x20;
+Our goal is to get you practicing using Obsidian to write up [literature notes](../course-info/assignments/4.-reference-literature-notes.md).&#x20;
