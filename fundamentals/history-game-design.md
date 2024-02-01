@@ -4,9 +4,7 @@
 
 * Consider how to design a History Game
 * Examine examples of history games designs and evaluate the success or the compromises necessary to the process.&#x20;
-* Discuss the two Free Topic classes:
-  * What two topics should we choose?
-  * Should we shift them around with the Student Presentation days?
+* Complete exercise 5: this framework will give you the structure to complete your annotated bibliography.&#x20;
 
 ### Read/Watch/Listen:
 

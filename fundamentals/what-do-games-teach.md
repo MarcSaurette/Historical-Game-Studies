@@ -4,6 +4,10 @@
 
 * &#x20;Our goal this week is to reflect on the pedagogical value of games - what do they teach, how do they teach? Games have tremendous potential value for classrooms, museums, galleries and other public history venues, but we should consider what we might want games to do when communicating history.&#x20;
 * Another goal is to get you practicing using Obsidian for making notes. You will practice creating notes and importing your annotations into them. By class, you should have completed [exercise 4](../course-info/assignments/4a.-reference-notes.md).&#x20;
+* Discuss the two Free Topic classes:
+  * What two topics should we choose?
+  * Should we shift them around with the Student Presentation days?
+  * Think about how would that affect class deadlines?
 
 ### Read/Watch/Listen
 
