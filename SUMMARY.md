@@ -60,7 +60,7 @@
 * [How to analyze History games](fundamentals/how-to-analyze-history-games.md)
 * [What do Games teach?](fundamentals/what-do-games-teach.md)
 * [History Game Design\*](fundamentals/history-game-design.md)
-* [Where are the Game Archives?](fundamentals/where-are-the-game-archives/README.md)
+* [Where are the Game Archives?\*](fundamentals/where-are-the-game-archives/README.md)
   * [Videogame Archives Initiatives](fundamentals/where-are-the-game-archives/videogame-archives-initiatives.md)
 
 ## Ludic Experiments

@@ -39,8 +39,6 @@ This is an overview of readings. Detailed readings with complete citations and l
 * Y. Grufstedt, _Shaping the Past: Counterfactual History and Game Design Practice in Digital Strategy Games_, chp. 2.
 * F. Klaassen. "Game Development in a Senior Seminar" in _Teaching the Middle Ages through Modern Games_.
   * Virtus card deck and rules
-* [Making Historical Boardgames](https://qubpublichistory.wordpress.com/2019/10/07/making-historical-board-games/#\_ftn2)
-  * [Cards and rulebooks](https://drive.google.com/drive/folders/1PKYX8NaWyutnHMbKhqsXW20L7OwrxiMr?usp=sharing)
 * A. Clulow et al. "[Designing Historical Video Game](https://notevenpast.org/designing-historical-video-games/)s"
   * [https://epochutaustin.itch.io/ako-a-test-of-loyalty](https://epochutaustin.itch.io/ako-a-test-of-loyalty)
 
