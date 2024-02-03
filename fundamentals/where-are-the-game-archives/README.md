@@ -1,5 +1,9 @@
 # Where are the Game Archives?
 
+### Goals for this Week
+
+Our goal is to think about how we access games as historians. How can we access historic games (i.e. 12th century chess pieces), mass production games or digital games? How do different mediums affect our subjective experience as analysts if we play 1980s games on an emulator, or make sense of 19th century boardgames through digital files? Or more practically, are there archives and repositories for games?
+
 ### Readings
 
 * M.J.P. Wolf and B. Perron, ed. _The Routledge Companion to Video Game Studies_, chp. 7, "Preservation". Routledge, 2023. [Link to Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991023134004905153).
