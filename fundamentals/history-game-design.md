@@ -8,7 +8,9 @@
 
 Potential Questions:&#x20;
 
-* Rouse's chapter on Game Design highlights their key idea about game design - polayer choice. In the games that you play, how important is having the ability to solve a challenge in different ways? Which games do this best, do you find? And how, if you were creating a history game, would you balance player choice with historical accuracy?
+* Rouse's chapter on Game Design highlights their key idea about game design - player choice. In the games that you play, how important is having the ability to solve a challenge in different ways? Which games do this best, do you find? And how, if you were creating a history game, would you balance player choice with historical accuracy?
+* What is a counterfactual game in Grufstedt's writing? How might students apply her definition to their own research?
+* Grufstedt (p. 77) talks about how Rockstar games use History as "clout" - a way to signal authenticity more for marketing than a game pillar. Do you see that in other games and should this concern us as historians?&#x20;
 *
 
 ### Read/Watch/Listen:
