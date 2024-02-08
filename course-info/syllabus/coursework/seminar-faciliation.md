@@ -9,3 +9,5 @@ Presentations should:&#x20;
 * the facilitator will design questions or exercises to help guide discussion – preferably these questions will be distributed in advance of the seminar
 
 Don’t worry! This is an art and not a science! It will require some forethought to anticipate where discussion might go while also allowing space for surprise interventions.&#x20;
+
+{% embed url="https://docs.google.com/spreadsheets/d/1sc6SoN0CVrn_x6d-plT6uRORx95Uh_Oojer2ZXjaR1g/edit?usp=sharing" %}
