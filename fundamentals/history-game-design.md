@@ -1,10 +1,15 @@
-# History Game Design\*
+# History Game Design
 
 ### Goals:&#x20;
 
 * Consider how to design a History Game
 * Examine examples of history games designs and evaluate the success or the compromises necessary to the process.&#x20;
-* Complete exercise 5: this framework will give you the structure to complete your annotated bibliography.&#x20;
+* Begin work on exercise 5: this framework will give you the structure to complete your annotated bibliography.&#x20;
+
+Potential Questions:&#x20;
+
+* Rouse's chapter on Game Design highlights their key idea about game design - polayer choice. In the games that you play, how important is having the ability to solve a challenge in different ways? Which games do this best, do you find? And how, if you were creating a history game, would you balance player choice with historical accuracy?
+*
 
 ### Read/Watch/Listen:
 
