@@ -32,7 +32,7 @@
     * [Process Letter](course-info/syllabus/coursework/process-letters.md)
   * [Assessment](course-info/syllabus/assessment-1.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
-* [Exercises\*](course-info/assignments/README.md)
+* [Exercises](course-info/assignments/README.md)
   * [1. Roll & Race](course-info/assignments/1.-roll-and-race.md)
   * [2a. Game User Log](course-info/assignments/2a.-game-user-log.md)
   * [2b. Introduction to Hypothes.is](course-info/assignments/2b.-introduction-to-hypothes.is.md)
