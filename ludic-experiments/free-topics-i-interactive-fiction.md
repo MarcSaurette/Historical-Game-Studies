@@ -2,7 +2,7 @@
 
 ### Goals
 
-
+The goal for this week is to consider in what ways History, historical fiction and games (including interactive fiction) tell stories (narratives). Our goal should be to consider how the medium affects how stories get told (e.g. print vs digital) and how History tells stories differently (or the same) due to its disciplinary requirements.&#x20;
 
 ### Read/Watch Listen
 
@@ -18,4 +18,6 @@ Willis, M. D. (2019). Choose your own adventure: Examining the fictional content
 
 * [Text](https://academic-oup-com.proxy.library.carleton.ca/jaac/article/77/1/43/5981465)
 
-### Going Further
+Lebowitz, Josiah., and Chris. Klug. _Interactive Storytelling for Video Games : A Player-Centered Approach to Creating Memorable Characters and Stories_. 1st edition, Focal Press, 2011, https://doi.org/10.4324/9780240817187. (text on Teams/Obsidian).&#x20;
+
+* Read chapters 1 and 2, "Game Stories, Interactiity and What Players Want" and "A Brief History of Storytelling in Games".&#x20;

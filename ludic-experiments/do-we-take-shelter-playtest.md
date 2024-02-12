@@ -45,3 +45,7 @@ In advance of the class, the designer (Martha Attridge Bufton) will enroll stude
 * [The Channel Incident](https://film.iwmcollections.org.uk/record/18067)
 
 ### Going Further
+
+Fullerton, Tracy. _Game Design Workshop : A Playcentric Approach to Creating Innovative Games_. 3rd edition., CRC Press, 2014. ([Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022762704305153)) Fourth edition posted on Teams/Obsidian.&#x20;
+
+* Read chapter 9. Playtesting.&#x20;
