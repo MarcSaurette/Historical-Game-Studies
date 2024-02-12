@@ -23,6 +23,8 @@ Potential Questions:&#x20;
 
 ### Going further
 
+Robin Hunicke, Marc LeBlanc, Robert Zubek, "MDA: A Formal Approach to Game Design and Game Research", [https://users.cs.northwestern.edu/\~hunicke/MDA.pdf](https://users.cs.northwestern.edu/\~hunicke/MDA.pdf)
+
 Tanenbaum, T. J., Gardner, D., & Cowling, M. (2017). "[Chalk, Props, And Costumes](https://analoggamestudies.org/2017/07/2716/): Two Exercises for Teaching Pervasive Game Design." _Analog Game Studies_, 4(4), ETC Press. pp 232 – 248&#x20;
 
 Tim Somers, [Making Historical Boardgames](https://qubpublichistory.wordpress.com/2019/10/07/making-historical-board-games/#\_ftn2) (blog post, October 7, 2019)

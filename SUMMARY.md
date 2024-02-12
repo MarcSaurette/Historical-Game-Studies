@@ -68,5 +68,5 @@
 * [Do we take shelter - Playtest](ludic-experiments/do-we-take-shelter-playtest.md)
 * [Do we take shelter? Discussion with the game designer](ludic-experiments/do-we-take-shelter-discussion-with-the-game-designer.md)
 * [Student Presentations](ludic-experiments/student-presentations.md)
-* [Free Topics I](ludic-experiments/free-topics-i.md)
+* [Free Topics I: Interactive Fiction](ludic-experiments/free-topics-i-interactive-fiction.md)
 * [Free Topic II](ludic-experiments/free-topic-ii.md)

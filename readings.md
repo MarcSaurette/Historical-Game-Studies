@@ -72,7 +72,7 @@ Readings set by student presenters
 
 Readings set by student presenters
 
-[March 28](ludic-experiments/free-topics-i.md)
+[March 28](ludic-experiments/free-topics-i-interactive-fiction.md)
 
 TBD
 
