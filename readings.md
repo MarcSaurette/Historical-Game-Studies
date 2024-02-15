@@ -72,11 +72,11 @@ Readings set by student presenters
 
 Readings set by student presenters
 
-[March 28](ludic-experiments/free-topics-i-interactive-fiction.md)
+[March 28](ludic-experiments/free-topics-i-gaming-museums-and-archaeology.md)
 
 TBD
 
-[April 4](ludic-experiments/free-topic-ii.md)
+[April 4](ludic-experiments/free-topic-ii-interactive-fiction.md)
 
 TBD
 

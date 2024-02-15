@@ -1,4 +1,4 @@
-# Free Topics I: Interactive Fiction
+# Free Topic II: Interactive Fiction
 
 ### Goals
 
