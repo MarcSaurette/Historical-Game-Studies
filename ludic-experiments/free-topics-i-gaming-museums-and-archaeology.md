@@ -1,9 +1,5 @@
 # Free Topics I: Gaming, Museums and Archaeology
 
-### Goals
-
-
-
 ### Read/Watch/Listen
 
 Williams, Howard, C. (Caroline) Pudney, and Afnan Ezzeldin, eds. _Public Archaeology : Arts of Engagement_. Oxford, England: Archaeopress Publishing Limited, 2019. [Link to Library Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022939040005153)
@@ -22,7 +18,23 @@ Liarokapis, Fotis., Athanasios. Voulodimos, Nikolaos. Doulamis, and Anastasios. 
 
 * Chapter 10: "Using Augmented Reality, Gaming Technologies, and Transmedial Storytelling to Develop and Co-design Local Cultural Heritage Experiences" by Lissa Holloway-Attaway and Lars Vipsjö.
 
+### Going Further
 
+[Archaeological Representation in Simulation Video Games (youtube.com)](https://www.youtube.com/watch?v=eH9NHFo8cVA)
+
+[Archaeogaming – Exploring the archaeology in (and of) video games.](https://archaeogaming.com/)
+
+[Meet the Archaeologist: Andrew Reinhard (youtube.com)](https://www.youtube.com/watch?v=M\_Xfm3-Xg7U)
+
+[The Interactive Pasts Conference: Andrew Reinhard (youtube.com)](https://www.youtube.com/watch?v=VWmQZeyIRUw)
+
+[Digging The Game: The Archaeology of Legend of Zelda: Breath of the Wild (Part.1) (youtube.com)](https://www.youtube.com/watch?v=EyxQyi4zGB8)
+
+[The Built Environment in Final Fantasy XIV with Sarah Love (youtube.com)](https://www.youtube.com/watch?v=FWlEWOpK0PU\&list=PL392LNBnFeKgYkiloZ6ff\_aVpWcDXDxMC\&index=23)
+
+[An Archaeologist Plays Fallout 76 Archaeogaming in 'Once in a Blue Moon' and Cryptid Hunting! (youtube.com)](https://www.youtube.com/watch?v=kxXff7mymJE)
+
+[Shadow of the Tomb Raider (PC) Part.3 (youtube.com)](https://www.youtube.com/watch?v=TQUvbvLNPH0)
 
 
 
