@@ -1,5 +1,7 @@
 # Free Topics I: Gaming, Museums and Archaeology
 
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-14 at 1.35.09 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### Read/Watch/Listen
 
 Williams, Howard, C. (Caroline) Pudney, and Afnan Ezzeldin, eds. _Public Archaeology : Arts of Engagement_. Oxford, England: Archaeopress Publishing Limited, 2019. [Link to Library Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022939040005153)
