@@ -1,6 +1,6 @@
 # Historical Game Studies - 2024
 
-## HIST 5906W / DIGH 5902C- Historical Game Studies
+## HIST 5906F / DIGH 5902C- Historical Game Studies
 
 ### Overview
 
