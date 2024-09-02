@@ -1,5 +1,11 @@
 # Participation
 
+
+
+{% hint style="danger" %}
+Participation will receive 0 if the [process letter](process-letters.md) is not submitted on time.&#x20;
+{% endhint %}
+
 This course meets for one 3-hour block per week and will be run as a seminar, with students taking turns presenting ideas from the readings and facilitating the overall discussion.&#x20;
 
 {% hint style="info" %}

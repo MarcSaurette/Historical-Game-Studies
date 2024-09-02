@@ -12,7 +12,7 @@ This is an overview of readings. Detailed readings with complete citations and l
 
 * Read the syllabus and get key digital tools installed
 
-[January 18](fundamentals/games-and-public-history.md)
+[January 18](fundamentals/what-are-games-and-why-do-they-interest-historians.md)
 
 * C.T. Nguyen, "Philosophy of Games"
 * C.T. Nguyen, _Games: Agency as Art,_ chps. 1-3
@@ -76,11 +76,11 @@ Readings set by student presenters
 
 Readings set by student presenters
 
-[March 28](ludic-experiments/possible-free-topics-gaming-museums-and-archaeology.md)
+[March 28](ludic-experiments/free-topics-i-gaming-museums-and-archaeology.md)
 
 TBD
 
-[April 4](fundamentals/interactive-fiction-and-history-storytelling.md)
+[April 4](ludic-experiments/free-topic-ii-interactive-fiction.md)
 
 TBD
 

@@ -1,8 +1,16 @@
-# Process Letters
+# Process Letter
 
 At the end of term, students will be asked to write a critical self-evaluation (_critical_ in the sense of "using logic and evidence to argue"), describing their learning and how their work evolved over the year. It should be a reflection on your work, including links to examples of work you find most representative (even work that you don't otherwise turn in).
 
 I will post a form on Teams for students to submit, but you may submit a long form written answer (an argument rather than answers to specific questions) if you prefer. &#x20;
+
+
+
+{% hint style="info" %}
+Process Letter Form: [https://forms.office.com/r/8bU4da9Jq6](https://forms.office.com/r/8bU4da9Jq6)
+
+Must be signed in with Carleton cmail account. Responses only accepted late November. No responses accepted after December 21st, 11:59pm.
+{% endhint %}
 
 ### What do I need to include?
 

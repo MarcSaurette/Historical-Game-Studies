@@ -1,4 +1,4 @@
-# Free Topics I: Gaming, Museums and Archaeology
+# Possible Free Topics: Gaming, Museums and Archaeology
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-14 at 1.35.09 PM.png" alt=""><figcaption><p>Andrew Reinhard, <em>Archaeogaming</em> fig. 0.1</p></figcaption></figure>
 
