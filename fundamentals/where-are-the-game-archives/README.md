@@ -2,7 +2,7 @@
 
 ### Goals for this Week
 
-Our goal is to think about how we access games as historians. How can we access historic games (i.e. 12th century chess pieces), mass production games or digital games? How do different mediums affect our subjective experience as analysts if we play 1980s games on an emulator, or make sense of 19th century boardgames through digital files? Or more practically, are there archives and repositories for games?
+Our goal is to think about how we access games as historians. How can we access historic games (e.g. 12th century chess pieces), mass production games or digital games? How do different mediums affect our subjective experience as analysts if we play 1980s games on an emulator, or make sense of 19th century boardgames through digital files? Or more practically, are there archives and repositories for games?
 
 ### Readings
 

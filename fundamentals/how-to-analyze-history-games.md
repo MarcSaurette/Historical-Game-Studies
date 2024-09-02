@@ -12,11 +12,13 @@
 
 A. Chapman, [_Digital Games As History_](https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/detail.action?docID=4523750)_: How Videogames Represent The Past And Offer Access To Historical Practice,_ chps. 1, 2 & 10 (intro, chapter, conclusion).
 
-E. Pfister and A. Görgen, _„_How to analyse a Video game? The HGP-Method“ in:  Horror-Game-Politics, <[http://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)> 03.08.2022
+Carly A. Kocurek, "Editor's Introduction: It Isn't Difficult to Find Feminist Game Studies, but Can We Find a Feminist Game History?". _Feminist Media Histories_ 1 January 2020; 6 (1): 1–11. doi: [https://doi-org.proxy.library.carleton.ca/10.1525/fmh.2020.6.1.1](https://doi-org.proxy.library.carleton.ca/10.1525/fmh.2020.6.1.1)
 
 J. McCall, "The Historical Problem Space Framework: Games as a Historical Medium". [https://gamestudies.org/2003/articles/mccall](https://gamestudies.org/2003/articles/mccall) (web only, no pdf).&#x20;
 
 * &#x20;McCall's [website](https://gamingthepast.net/theory-practice/the-historical-problem-space-framework-for-game-analysis/) on his HPS framework (links to additional articles and diagrams)
+
+Apostolos Spanos, "Pregame", in _Games of History : Games and Gaming as Historical Sources_. Routledge, 2021, "Pregame"[ Link to Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991023026456405153) catalogue.&#x20;
 
 #### Case Studies:
 

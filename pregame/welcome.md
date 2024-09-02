@@ -1,6 +1,6 @@
 # Prelude
 
-### Goals for this week (January 11th, 2024)
+### Goals for this week
 
 By the end of the first week, what should you **know**, be able to **do** and **understand**? You will:
 

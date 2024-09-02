@@ -15,7 +15,11 @@ Potential Questions:&#x20;
 ### Read/Watch/Listen:
 
 * Mark J. P. Wolf and Bernard Perron, ed. _The Routledge Companion to Video Game Studies_, chp. 20, "Game Design"&#x20;
-* Y. Grufstedt, _Shaping the Past: Counterfactual History and Game Design Practice in Digital Strategy Games_, chp. 2.
+* Darren Reid; Video Game Development as Public History: Practical Reflections on Making a Video Game for Historical Public Engagement. _The Public Historian_ 1 February 2024; 46 (1): 74–107. doi: [https://doi.org/10.1525/tph.2024.46.1.74](https://doi.org/10.1525/tph.2024.46.1.74)
+* Y. Grufstedt, _Shaping the Past: Counterfactual History and Game Design Practice in Digital Strategy Games_, chp. 2. (_optional_)
+
+Case Studies:
+
 * F. Klaassen. "Game Development in a Senior Seminar" in _Teaching the Middle Ages through Modern Games_.
   * [Virtus card deck and rules](http://historygames.usask.ca/islandora/object/historygames%3A10)
 * A. Clulow et al. "[Designing Historical Video Game](https://notevenpast.org/designing-historical-video-games/)s"

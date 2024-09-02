@@ -56,17 +56,17 @@
 
 ## Fundamentals
 
-* [What are Games and why do they interest historians?](fundamentals/what-are-games-and-why-do-they-interest-historians.md)
+* [Games and Public History?](fundamentals/games-and-public-history.md)
 * [How to analyze History games](fundamentals/how-to-analyze-history-games.md)
 * [What do Games teach?](fundamentals/what-do-games-teach.md)
 * [History Game Design](fundamentals/history-game-design.md)
 * [Where are the Game Archives?](fundamentals/where-are-the-game-archives/README.md)
   * [Videogame Archives Initiatives](fundamentals/where-are-the-game-archives/videogame-archives-initiatives.md)
+* [Interactive Fiction and History Storytelling](fundamentals/interactive-fiction-and-history-storytelling.md)
 
 ## Ludic Experiments
 
 * [Do we take shelter - Playtest](ludic-experiments/do-we-take-shelter-playtest.md)
 * [Do we take shelter? Discussion with the game designer](ludic-experiments/do-we-take-shelter-discussion-with-the-game-designer.md)
 * [Student Presentations](ludic-experiments/student-presentations.md)
-* [Free Topics I: Gaming, Museums and Archaeology](ludic-experiments/free-topics-i-gaming-museums-and-archaeology.md)
-* [Free Topic II: Interactive Fiction](ludic-experiments/free-topic-ii-interactive-fiction.md)
+* [Possible Free Topics: Gaming, Museums and Archaeology](ludic-experiments/possible-free-topics-gaming-museums-and-archaeology.md)

@@ -1,4 +1,8 @@
-# Free Topic II: Interactive Fiction
+---
+description: Might switch around the readings a bit
+---
+
+# Interactive Fiction and History Storytelling
 
 ### Goals
 
@@ -21,3 +25,7 @@ Willis, M. D. (2019). Choose your own adventure: Examining the fictional content
 Lebowitz, Josiah., and Chris. Klug. _Interactive Storytelling for Video Games : A Player-Centered Approach to Creating Memorable Characters and Stories_. 1st edition, Focal Press, 2011, https://doi.org/10.4324/9780240817187. (text on Teams/Obsidian).&#x20;
 
 * Read chapters 1 and 2, "Game Stories, Interactiity and What Players Want" and "A Brief History of Storytelling in Games".&#x20;
+
+### Prepare
+
+Twine tutorial: [https://programminghistorian.org/en/lessons/interactive-text-games-using-twine](https://programminghistorian.org/en/lessons/interactive-text-games-using-twine)

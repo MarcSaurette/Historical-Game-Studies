@@ -17,7 +17,7 @@ During gameplay, students should jot down notes to refer back to, for the discus
 In advance of the class, the designer (Martha Attridge Bufton) will enroll students in a sandboxed Brightspace instance. Access to game materials and supplemental materials will be available there. Students will be required to read:
 
 * The Player Manual: [https://ecampusontario.pressbooks.pub/gamerguidedowetakeshelter/](https://ecampusontario.pressbooks.pub/gamerguidedowetakeshelter/)
-* Martha will assign each student a character. She will send this directly to the student.&#x20;
+* Martha will assign each student a character. She will send this directly to the student via Teams.
 
 **British Pathé newsreels (approximately 9 minutes)**
 

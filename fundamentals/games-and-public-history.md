@@ -1,10 +1,4 @@
-# What are Games and why do they interest historians?
-
-###
-
-{% hint style="info" %}
-Holly's slideshow on [Canva](https://www.canva.com/design/DAF6Kw6Tu4w/kmUbsJi7nLJzDo7UAuXxGA/view?utm\_content=DAF6Kw6Tu4w\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=viewer).
-{% endhint %}
+# Games and Public History?
 
 ### Key Ideas
 
@@ -12,7 +6,7 @@ Holly's slideshow on [Canva](https://www.canva.com/design/DAF6Kw6Tu4w/kmUbsJi7nL
 * trends in game studies scholarship
 * historical approaches to games
 
-### Goals for this week (September 18th)
+### Goals for this week
 
 1. To understand how scholars define "Games" and why academics might be interested in them.
 2. To reflect upon the position of games in our society and try to extrapolate from that, why games were important in other societies and at other times
@@ -30,9 +24,10 @@ The week introduces you to the field of Historical Games Studies. The professor 
 ### Questions to guide the readings
 
 1. What is a game?
-2. How have scholars defined games differently over time?&#x20;
-3. How does Nguyen categorize existing scholarship?  (his literature survey will be useful for comparison when we read others in later weeks) and how would his survey fit with Draycott's?
-4. How to categorize games?
+2. What is Public History?
+3. How have scholars defined games differently over time?&#x20;
+4. How does Nguyen categorize existing scholarship?  (his literature survey will be useful for comparison when we read others in later weeks) and how would his survey fit with Draycott's?
+5. How to categorize games?
 
 ### Read/Watch/Listen
 
@@ -46,7 +41,7 @@ And also  by C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford Uni
 
 * [https://academic.oup.com/book/32137/chapter/268094682](https://academic.oup.com/book/32137/chapter/268094682)
 
-Apostolos Spanos, "Pregame", in _Games of History : Games and Gaming as Historical Sources_. Routledge, 2021, "Pregame"[ Link to Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991023026456405153) catalogue.&#x20;
+Jeremiah McCall, "Video Games as Participatory Public History," in David Dean, ed., _A Companion to Public History_. 1st ed., Wiley, 2018: 405-416.
 
 Jane Draycott, "A short introduction to women in historical and archaeological video games," in _Women in Historical and Archaeological Video Games,_ De Gruyter, 2022, [Link to Library Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022995133105153).
 
