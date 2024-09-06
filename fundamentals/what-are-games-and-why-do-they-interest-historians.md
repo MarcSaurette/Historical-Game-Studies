@@ -41,7 +41,7 @@ And also  by C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford Uni
 
 * [https://academic.oup.com/book/32137/chapter/268094682](https://academic.oup.com/book/32137/chapter/268094682)
 
-Jeremiah McCall, "Video Games as Participatory Public History," in David Dean, ed., _A Companion to Public History_. 1st ed., Wiley, 2018: 405-416. [https://doi.org/10.1002/9781118508930.ch29](https://doi.org/10.1002/9781118508930.ch29)
+Jeremiah McCall, "Video Games as Participatory Public History," in David Dean, ed., _A Companion to Public History_. 1st ed., Wiley, 2018: 405-416. [https://doi.org/10.1002/9781118508930.ch29](https://doi.org/10.1002/9781118508930.ch29)[https://doi-org.proxy.library.carleton.ca/10.1002/9781118508930.ch29](https://doi-org.proxy.library.carleton.ca/10.1002/9781118508930.ch29)
 
 Jane Draycott, "A short introduction to women in historical and archaeological video games," in _Women in Historical and Archaeological Video Games,_ De Gruyter, 2022, [Link to Library Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022995133105153).
 
