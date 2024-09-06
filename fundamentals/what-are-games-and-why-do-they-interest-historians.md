@@ -41,7 +41,7 @@ And also  by C. Thi. Nguyen, _Games : Agency as Art_. New York, NY: Oxford Uni
 
 * [https://academic.oup.com/book/32137/chapter/268094682](https://academic.oup.com/book/32137/chapter/268094682)
 
-Jeremiah McCall, "Video Games as Participatory Public History," in David Dean, ed., _A Companion to Public History_. 1st ed., Wiley, 2018: 405-416.
+Jeremiah McCall, "Video Games as Participatory Public History," in David Dean, ed., _A Companion to Public History_. 1st ed., Wiley, 2018: 405-416. [https://doi.org/10.1002/9781118508930.ch29](https://doi.org/10.1002/9781118508930.ch29)
 
 Jane Draycott, "A short introduction to women in historical and archaeological video games," in _Women in Historical and Archaeological Video Games,_ De Gruyter, 2022, [Link to Library Catalogue](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/hgdufh/alma991022995133105153).
 
@@ -71,6 +71,8 @@ Listen to the review/ engagement with Nguyen's work on an excellent podcast, _Ga
 After this class, set up [Obsidian](../course-info/digital-tools/obsidian/) and install the provided class "vault". Exercises [3](../course-info/assignments/3.-starting-with-obsidian.md) and [3b](../course-info/assignments/3b.-annotating-with-obsidian.md).&#x20;
 
 ### Going Further
+
+(Optional) Nolden, Nico and Pfister, Eugen. "Gaming and Digital Public History". _Handbook of Digital Public History_, edited by Serge Noiret, Mark Tebeau and Gerben Zaagsma, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 309-316. [https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-026](https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-026)
 
 When you are encountering a new field of study, it is useful to use a tertiary source (reference works like dictionaries and encyclopedias) to learn terminology, get basic definitions and be introduced generally to key topics.
 
