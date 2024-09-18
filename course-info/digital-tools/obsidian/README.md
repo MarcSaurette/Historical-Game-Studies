@@ -1,9 +1,5 @@
 # Obsidian
 
-{% hint style="info" %}
-As of January 11th, I keep fiddling with our class Obsidian starter vault. We will only start to use Obsidian in week three.&#x20;
-{% endhint %}
-
 [Obsidian](https://obsidian.md) is a powerful tool for taking notes and organizing knowledge. As their promo materials describes:
 
 > _Everything is connected_
