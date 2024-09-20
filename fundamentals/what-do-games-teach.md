@@ -11,7 +11,7 @@
 
 ### Read/Watch/Listen
 
-Kevin Kee, Shawn Graham et al. "Towards a Theory of Good History Through Gaming." _The Canadian Historical Review_ 90, no. 2 (2009): 303-326. [https://doi.org/10.1353/can.0.0164](https://doi.org/10.1353/can.0.0164). ([Online Pdf](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/267473/pdf); [Online text](https://muse-jhu-edu.proxy.library.carleton.ca/article/267473)).
+~~Kevin Kee, Shawn Graham et al. "Towards a Theory of Good History Through Gaming." _The Canadian Historical Review_ 90, no. 2 (2009): 303-326.~~ [~~https://doi.org/10.1353/can.0.0164~~](https://doi.org/10.1353/can.0.0164)~~. (~~[~~Online Pdf~~](https://muse-jhu-edu.proxy.library.carleton.ca/pub/50/article/267473/pdf)~~;~~ [~~Online text~~](https://muse-jhu-edu.proxy.library.carleton.ca/article/267473)~~).~~
 
 R. Houghton, "Teaching the Middle Ages through Modern Games" in , Robert Houghton, editor. _Teaching the Middle Ages through Modern Games : Using, Modding and Creating Games for Education and Impact_. Walter de Gruyter GmbH, 2022, [https://doi.org/10.1515/9783110712032](https://doi.org/10.1515/9783110712032). Consult via: [https://doi-org.proxy.library.carleton.ca/10.1515/9783110712032](https://doi-org.proxy.library.carleton.ca/10.1515/9783110712032)
 
@@ -20,9 +20,19 @@ N. Dahya, J. Jenson, and K. Fong, "(En)gendering videogame development: A femini
 * URI: [https://resolver-scholarsportal-info.proxy.library.carleton.ca/resolve/10714413/v39i0004/367\_vdafatgeags.xml](https://resolver-scholarsportal-info.proxy.library.carleton.ca/resolve/10714413/v39i0004/367\_vdafatgeags.xml)
 * DOI: [https://doi-org.proxy.library.carleton.ca/10.1080/10714413.2017.1344508](https://doi-org.proxy.library.carleton.ca/10.1080/10714413.2017.1344508)
 
-C. Konshuh and F. Klaassen, "The Renaissance Marriage Game: A Simulation for Large Classes," in _Teaching the Middle Ages through Modern Games_ (see above)
+~~C. Konshuh and F. Klaassen, "The Renaissance Marriage Game: A Simulation for Large Classes," in _Teaching the Middle Ages through Modern Games_ (see above)~~
 
-* [Card deck and rules](http://historygames.usask.ca/islandora/object/historygames%3A21)
+* [~~Card deck and rules~~](http://historygames.usask.ca/islandora/object/historygames%3A21)
+
+**New**
+
+Champion, Erik and Hiriart Vera, Juan Francisco. _›Assassin’s Creed‹ in the Classroom: History’s Playground or a Stab in the Dark?_, Berlin, Boston: De Gruyter Oldenbourg, 2024. [https://doi-org.proxy.library.carleton.ca/10.1515/9783111253275](https://doi-org.proxy.library.carleton.ca/10.1515/9783111253275) (pdf will be uploaded to Teams/Obsidian folder; Carleton library does not yet have access to ).
+
+* Champion, Erik and Hiriart, Juan. "Introduction: History’s Playground or a Stab in the Dark?".  pp. 1-10.
+* Éthier, Marc-André and Lefrançois, David. "Chapter 1 Historical Video Games and Teaching Practices", pp. 11-34.
+* Xu, Chu, Sharma, Robin and Dubé, Adam K.. "Chapter 2 Discovery Tour Curriculum Guides to Improve Teachers’ Adoption of Serious Gaming", pp. 35-64.\
+  \
+
 
 ### Prepare:
 
