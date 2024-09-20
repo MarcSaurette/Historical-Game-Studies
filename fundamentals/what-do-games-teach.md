@@ -1,5 +1,11 @@
 # What do Games teach?
 
+
+
+{% hint style="info" %}
+We will be joined by Matt Todd (Ubisoft; [LinkedIn Profile](https://www.linkedin.com/in/matt-todd-phd-82ab87198/?originalSubdomain=ca)) who will contribute to our discussion. As a result the readings have changed somewhat to reflect his potential contributions to our discussions.&#x20;
+{% endhint %}
+
 ### Goals for this week
 
 * &#x20;Our goal this week is to reflect on the pedagogical value of games - what do they teach, how do they teach? Games have tremendous potential value for classrooms, museums, galleries and other public history venues, but we should consider what we might want games to do when communicating history.&#x20;
