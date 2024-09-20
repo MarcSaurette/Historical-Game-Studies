@@ -16,7 +16,7 @@ Potential Questions:&#x20;
 
 * Mark J. P. Wolf and Bernard Perron, ed. _The Routledge Companion to Video Game Studies_, chp. 20, "Game Design"&#x20;
 * Darren Reid; Video Game Development as Public History: Practical Reflections on Making a Video Game for Historical Public Engagement. _The Public Historian_ 1 February 2024; 46 (1): 74–107. doi: [https://doi.org/10.1525/tph.2024.46.1.74](https://doi.org/10.1525/tph.2024.46.1.74)
-* Y. Grufstedt, _Shaping the Past: Counterfactual History and Game Design Practice in Digital Strategy Games_, chp. 2. (_optional_)
+* Y. Grufstedt, _Shaping the Past: Counterfactual History and Game Design Practice in Digital Strategy Games_, chp. 2.
 
 Case Studies:
 
