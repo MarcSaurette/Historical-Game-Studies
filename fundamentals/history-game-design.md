@@ -27,6 +27,12 @@ Case Studies:
 
 ### Going further
 
+Kevin Kee et al., “Towards a Theory of Good History Through Gaming,” _The Canadian Historical Review_ 90, no. 2 (2009): 303–26
+
+Julien A. Bazile, “An ‘Alternative to the Pen’? Perspectives for the Design of Historiographical Videogames,” _Games and Culture_ 17, no. 6 (2022): 856
+
+Dawn Spring, “Gaming History: Computer and Video Games as Historical Scholarship,” _Rethinking History_ 19, no. 2 (2015): 207
+
 Robin Hunicke, Marc LeBlanc, Robert Zubek, "MDA: A Formal Approach to Game Design and Game Research", [https://users.cs.northwestern.edu/\~hunicke/MDA.pdf](https://users.cs.northwestern.edu/\~hunicke/MDA.pdf)
 
 Tanenbaum, T. J., Gardner, D., & Cowling, M. (2017). "[Chalk, Props, And Costumes](https://analoggamestudies.org/2017/07/2716/): Two Exercises for Teaching Pervasive Game Design." _Analog Game Studies_, 4(4), ETC Press. pp 232 – 248&#x20;
