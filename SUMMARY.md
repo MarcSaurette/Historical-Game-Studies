@@ -63,6 +63,7 @@
 * [Where are the Game Archives?](fundamentals/where-are-the-game-archives/README.md)
   * [Videogame Archives Initiatives](fundamentals/where-are-the-game-archives/videogame-archives-initiatives.md)
 * [Interactive Fiction and History Storytelling](ludic-experiments/free-topic-ii-interactive-fiction.md)
+* [Counterfactual History & Games](fundamentals/counterfactual-history-and-games.md)
 
 ## Ludic Experiments
 

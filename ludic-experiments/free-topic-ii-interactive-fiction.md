@@ -1,7 +1,3 @@
----
-description: Might switch around the readings a bit
----
-
 # Interactive Fiction and History Storytelling
 
 ### Goals
