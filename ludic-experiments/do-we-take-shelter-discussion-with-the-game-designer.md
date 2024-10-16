@@ -4,7 +4,7 @@
 
 This week we will welcome Martha Attridge Bufton back for a second class to discuss her experience as a game designer, her game design process and constructive feedback on _Do we take shelter?_
 
-In our Obsidian folder on Teams, you can find a [new sheet](https://cmailcarletonca.sharepoint.com/:t:/r/sites/HistoricalGamesStudies/Shared%20Documents/General/HGS%20-%202024%20-%20Shared%20Vault/Game%20Design/10.%20Game%20Playtesting.md?csf=1\&web=1\&e=v7hEXR) in the Game Design folder entitled, "Game Playtesting". This note lays out the kinds of questions a game designer should ask when entering into  playtesting. Your goal is to think of yourself partly as playtester, partly as game designer, and try to think about how your experience can offer insight into the gametesting experience.&#x20;
+In our Obsidian folder on Teams, you can find a template in the Game Design folder entitled, "Game Playtesting". This note lays out the kinds of questions a game designer should ask when entering into playtesting. Your goal is to think of yourself partly as playtester, partly as game designer, and try to think about how your experience can offer insight into the gametesting experience.&#x20;
 
 #### Types of Questions to explore after a game playtest&#x20;
 
