@@ -16,6 +16,8 @@ Scott L. Roberts, "Using Counterfactual History to Enhance Students’ Historica
 
 ## Going Further
 
+For next time: Andrew Denning, "Deep Play? Video Games and the Historical Imaginary," _The American Historical Review_, Volume 126, Issue 1, March 2021, Pages 180–198, [https://doi.org/10.1093/ahr/rhab002](https://doi.org/10.1093/ahr/rhab002)
+
 [How to Win a War by Niall Ferguson](https://nymag.com/news/features/22787/)
 
 The historian Niall Ferguson discusses how playing _Making History: The Calm and the Storm_ challenged his counterfactual assumptions regarding the Second World War. Can games or historical games prove surprisingly insightful when it comes to counterfactual history?
